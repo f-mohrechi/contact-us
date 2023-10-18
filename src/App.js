@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <QueryClientProvider client={queryClient}>
-        <BrowserRouter>
+        <BrowserRouter basename="/contact-us">
           <Routes>
             <Route element={<ContactForm />} path="/" />
           </Routes>

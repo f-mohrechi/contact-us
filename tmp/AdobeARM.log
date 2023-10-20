@@ -1,0 +1,1759 @@
+[2023-09-02 17:17:10:0707] Adobe ARM 1.824.460.1047 logging started.
+[2023-09-02 17:17:10:0783] Too soon to check for arm update
+[2023-09-02 17:17:10:0859] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-02 17:17:10:0859] ProductName: Adobe Acrobat (64-bit)
+[2023-09-02 17:17:10:0859] ProductVersion: 23.003.20284
+[2023-09-02 17:17:10:0859] ProductUACPatching: enabled
+[2023-09-02 17:17:10:0903] Using registered preference AUTO_ALL
+[2023-09-02 17:17:10:0904] Last check for updates not expired, code: 120300
+[2023-09-02 17:17:10:0907] Using registered preference AUTO_ALL
+[2023-09-02 17:17:10:0908] Last check for updates not expired, code: 120300
+[2023-09-02 17:17:11:0124] ARM returns ERROR_SUCCESS
+[2023-09-02 17:17:11:0125] Adobe ARM 1.824.460.1047 logging finished.
+
+
+
+[2023-09-03 18:49:58:0998] Adobe ARM 1.824.460.1047 logging started.
+[2023-09-03 18:49:59:0187] Too soon to check for arm update
+[2023-09-03 18:49:59:0337] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-03 18:49:59:0338] ProductName: Adobe Acrobat (64-bit)
+[2023-09-03 18:49:59:0338] ProductVersion: 23.003.20284
+[2023-09-03 18:49:59:0338] ProductUACPatching: enabled
+[2023-09-03 18:49:59:0422] Using registered preference AUTO_ALL
+[2023-09-03 18:49:59:0423] Last check for updates not expired, code: 120300
+[2023-09-03 18:49:59:0425] Using registered preference AUTO_ALL
+[2023-09-03 18:49:59:0425] Last check for updates not expired, code: 120300
+[2023-09-03 18:49:59:0640] ARM returns ERROR_SUCCESS
+[2023-09-03 18:49:59:0640] Adobe ARM 1.824.460.1047 logging finished.
+
+
+
+[2023-09-06 13:05:12:0018] Adobe ARM 1.824.460.1047 logging started.
+[2023-09-06 13:05:26:0753] Newer version ARM update is not available
+[2023-09-06 13:05:26:0765] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-06 13:05:26:0765] ProductName: Adobe Acrobat (64-bit)
+[2023-09-06 13:05:26:0765] ProductVersion: 23.003.20284
+[2023-09-06 13:05:26:0765] ProductUACPatching: enabled
+[2023-09-06 13:05:26:0813] Using registered preference AUTO_ALL
+[2023-09-06 13:05:36:0053] MDOV1615
+[2023-09-06 13:05:36:0054] No files in Session, setting NO_UPDATES mode
+[2023-09-06 13:05:36:0063] Using registered preference AUTO_ALL
+[2023-09-06 13:05:41:0906] MDOV1615
+[2023-09-06 13:05:41:0910] No files in Session, setting NO_UPDATES mode
+[2023-09-06 13:05:42:0125] ARM returns ERROR_SUCCESS
+[2023-09-06 13:05:42:0125] Adobe ARM 1.824.460.1047 logging finished.
+
+
+
+[2023-09-07 15:25:00:0591] Adobe ARM 1.824.460.1047 logging started.
+[2023-09-07 15:25:00:0933] Too soon to check for arm update
+[2023-09-07 15:25:00:0980] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-07 15:25:00:0980] ProductName: Adobe Acrobat (64-bit)
+[2023-09-07 15:25:00:0980] ProductVersion: 23.003.20284
+[2023-09-07 15:25:00:0980] ProductUACPatching: enabled
+[2023-09-07 15:25:01:0343] Using registered preference AUTO_ALL
+[2023-09-07 15:25:01:0346] Last check for updates not expired, code: 120300
+[2023-09-07 15:25:01:0351] Using registered preference AUTO_ALL
+[2023-09-07 15:25:01:0353] Last check for updates not expired, code: 120300
+[2023-09-07 15:25:01:0571] ARM returns ERROR_SUCCESS
+[2023-09-07 15:25:01:0571] Adobe ARM 1.824.460.1047 logging finished.
+
+
+
+[2023-09-11 00:11:20:0649] Adobe ARM 1.824.460.1047 logging started.
+[2023-09-11 00:11:25:0793] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-09-11 00:11:25:0794] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-11 00:11:25:0913] all BITs attempts failed
+[2023-09-11 00:11:25:0913]  Error Code: -2145386495
+[2023-09-11 00:11:25:0913] ** Setting Error Condition: 140000
+[2023-09-11 00:11:25:0918] BITs failed, download manifest Job is not in Transferred state
+[2023-09-11 00:11:27:0125] BB download failed: https://armmf.adobe.com/arm-manifests/win/ArmManifest3.msi
+[2023-09-11 00:11:27:0138] Invalid ProductVersion in Session
+[2023-09-11 00:11:27:0141] ProductName: Adobe Acrobat (64-bit)
+[2023-09-11 00:11:27:0155] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-11 00:11:27:0156] ProductName: Adobe Acrobat (64-bit)
+[2023-09-11 00:11:27:0156] ProductVersion: 23.003.20284
+[2023-09-11 00:11:27:0156] ProductUACPatching: enabled
+[2023-09-11 00:11:29:0873] Using registered preference AUTO_ALL
+[2023-09-11 00:11:31:0020] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-09-11 00:11:31:0020] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-11 00:11:31:0129] all BITs attempts failed
+[2023-09-11 00:11:31:0129]  Error Code: -2145386495
+[2023-09-11 00:11:31:0129] ** Setting Error Condition: 140000
+[2023-09-11 00:11:31:0133] BITs failed, download manifest Job is not in Transferred state
+[2023-09-11 00:11:31:0340] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-09-11 00:11:31:0358] Using registered preference AUTO_ALL
+[2023-09-11 00:11:32:0493] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-09-11 00:11:32:0493] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-11 00:11:32:0601] all BITs attempts failed
+[2023-09-11 00:11:32:0601]  Error Code: -2145386495
+[2023-09-11 00:11:32:0601] ** Setting Error Condition: 140000
+[2023-09-11 00:11:32:0605] BITs failed, download manifest Job is not in Transferred state
+[2023-09-11 00:11:32:0749] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-09-11 00:11:32:0974] ARM returns ERROR_SUCCESS
+[2023-09-11 00:11:32:0975] Adobe ARM 1.824.460.1047 logging finished.
+
+
+
+[2023-09-16 22:17:06:0465] Adobe ARM 1.824.460.1047 logging started.
+[2023-09-16 22:18:03:0273] WriteSharedMemory(): succeeded. mapping obj name: Global\{E8F34725-3471-4506-B28B-47145817B1AE}_1349914885thsnYaViMRAeBoda
+[2023-09-16 22:18:10:0493] ARM returns ERROR_SUCCESS
+[2023-09-16 22:18:10:0493] Adobe ARM 1.824.460.1047 logging finished.
+
+
+
+[2023-09-18 11:17:27:0754] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-18 11:17:27:0830] Invalid ProductVersion in Session
+[2023-09-18 11:17:27:0868] ProductName: Adobe Acrobat (64-bit)
+[2023-09-18 11:17:28:0252] Too soon to check for arm update
+[2023-09-18 11:17:28:0377] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-18 11:17:28:0378] ProductName: Adobe Acrobat (64-bit)
+[2023-09-18 11:17:28:0378] ProductVersion: 23.003.20284
+[2023-09-18 11:17:28:0379] ProductUACPatching: enabled
+[2023-09-18 11:17:56:0864] Using registered preference AUTO_ALL
+[2023-09-18 11:18:17:0337] MDOV1615
+[2023-09-18 11:18:17:0338] New file object: AcroRdrDCx64Upd2300620320_MUI_incr.msp
+[2023-09-18 11:18:17:0338] MVF259
+[2023-09-18 11:20:21:0703] Newer version ARM update is not available
+[2023-09-18 11:20:23:0406] WriteSharedMemory(): succeeded. mapping obj name: Global\{E8F34725-3471-4506-B28B-47145817B1AE}_1349914885thsnYaViMRAeBoda
+[2023-09-18 11:20:41:0131] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0131] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0131] NtQueryInformationProcess failed, error: -1073741790
+[2023-09-18 11:20:41:0193] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0374] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0451] NtQueryInformationProcess failed, error: -1073741790
+[2023-09-18 11:20:41:0569] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0569] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0569] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0662] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-09-18 11:20:41:0942] NtQueryInformationProcess failed, error: -1073741790
+[2023-09-18 11:20:42:0107] WriteSharedMemory(): succeeded. mapping obj name: Global\{E8F34725-3471-4506-B28B-47145817B1AE}_1349914885thsnYaViMRAeBoda
+[2023-09-18 11:20:42:0633] ARM returns ERROR_SUCCESS
+[2023-09-18 11:20:42:0634] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-18 11:20:43:0069] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-18 11:20:43:0077] ARM returns ERROR_SUCCESS
+[2023-09-18 11:20:43:0077] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-19 20:15:19:0419] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-19 20:15:20:0066] Too soon to check for arm update
+[2023-09-19 20:15:20:0299] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-19 20:15:20:0299] ProductName: Adobe Acrobat (64-bit)
+[2023-09-19 20:15:20:0299] ProductVersion: 23.006.20320
+[2023-09-19 20:15:20:0299] ProductUACPatching: enabled
+[2023-09-19 20:15:20:0749] Using registered preference AUTO_ALL
+[2023-09-19 20:20:35:0842] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:35:0845] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:43:0287] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:43:0287] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:44:0431] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:44:0431] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:45:0585] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:45:0585] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:46:0722] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:46:0722] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:47:0883] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:47:0887] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:49:0017] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:49:0018] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:50:0138] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:50:0138] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:51:0288] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:51:0289] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:52:0431] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:52:0431] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:53:0560] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:53:0560] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:54:0678] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:54:0678] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:55:0813] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:55:0813] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:56:0957] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:56:0957] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:58:0096] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:58:0096] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:20:59:0220] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:20:59:0220] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:00:0335] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:21:00:0336] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:01:0449] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:21:01:0449] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:02:0616] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:21:02:0616] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:03:0736] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:21:03:0736] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:04:0869] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:21:04:0869] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:05:0986] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:21:05:0986] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:21:06:0119] all BITs attempts failed
+[2023-09-19 20:21:06:0119]  Error Code: -2145386495
+[2023-09-19 20:21:06:0119] ** Setting Error Condition: 140000
+[2023-09-19 20:21:06:0139] BITs failed, download manifest Job is not in Transferred state
+[2023-09-19 20:22:10:0779] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-09-19 20:22:10:0849] Using registered preference AUTO_ALL
+[2023-09-19 20:27:11:0461] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:11:0461] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:18:0932] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:18:0933] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:20:0057] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:20:0057] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:21:0177] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:21:0177] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:22:0308] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:22:0309] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:23:0431] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:23:0431] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:24:0560] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:24:0561] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:25:0699] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:25:0699] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:26:0826] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:26:0826] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:28:0046] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:28:0047] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:29:0187] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:29:0187] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:30:0397] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:30:0398] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:31:0511] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:31:0511] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:32:0627] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:32:0627] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:33:0753] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:33:0753] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:34:0882] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:34:0882] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:35:0999] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:35:0999] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:37:0133] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:37:0134] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:38:0262] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:38:0263] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:39:0382] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:39:0382] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:40:0512] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:40:0513] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:41:0627] ARMDownloader::BITS Error: The operation timed out
+[2023-09-19 20:27:41:0627] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-19 20:27:41:0757] all BITs attempts failed
+[2023-09-19 20:27:41:0757]  Error Code: -2145386495
+[2023-09-19 20:27:41:0757] ** Setting Error Condition: 140000
+[2023-09-19 20:27:41:0797] BITs failed, download manifest Job is not in Transferred state
+[2023-09-19 20:28:46:0026] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-09-19 20:28:46:0272] ARM returns ERROR_SUCCESS
+[2023-09-19 20:28:46:0272] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-20 11:00:02:0335] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-20 11:00:20:0502] Newer version ARM update is not available
+[2023-09-20 11:00:20:0535] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-20 11:00:20:0535] ProductName: Adobe Acrobat (64-bit)
+[2023-09-20 11:00:20:0535] ProductVersion: 23.006.20320
+[2023-09-20 11:00:20:0535] ProductUACPatching: enabled
+[2023-09-20 11:00:20:0695] Using registered preference AUTO_ALL
+[2023-09-20 11:00:23:0866] MDOV1615
+[2023-09-20 11:00:23:0869] No files in Session, setting NO_UPDATES mode
+[2023-09-20 11:00:23:0893] Using registered preference AUTO_ALL
+[2023-09-20 11:00:25:0946] MDOV1615
+[2023-09-20 11:00:25:0967] No files in Session, setting NO_UPDATES mode
+[2023-09-20 11:00:26:0281] ARM returns ERROR_SUCCESS
+[2023-09-20 11:00:26:0281] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-21 14:47:50:0719] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-21 14:47:51:0856] Too soon to check for arm update
+[2023-09-21 14:47:53:0792] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-21 14:47:53:0792] ProductName: Adobe Acrobat (64-bit)
+[2023-09-21 14:47:53:0793] ProductVersion: 23.006.20320
+[2023-09-21 14:47:53:0793] ProductUACPatching: enabled
+[2023-09-21 14:47:55:0230] Using registered preference AUTO_ALL
+[2023-09-21 14:47:55:0233] Last check for updates not expired, code: 120300
+[2023-09-21 14:47:55:0239] Using registered preference AUTO_ALL
+[2023-09-21 14:47:55:0270] Last check for updates not expired, code: 120300
+[2023-09-21 14:47:55:0489] ARM returns ERROR_SUCCESS
+[2023-09-21 14:47:55:0490] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-22 20:08:20:0938] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-22 20:08:21:0285] Too soon to check for arm update
+[2023-09-22 20:08:22:0116] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-22 20:08:22:0117] ProductName: Adobe Acrobat (64-bit)
+[2023-09-22 20:08:22:0117] ProductVersion: 23.006.20320
+[2023-09-22 20:08:22:0117] ProductUACPatching: enabled
+[2023-09-22 20:08:22:0212] Using registered preference AUTO_ALL
+[2023-09-22 20:08:22:0212] Last check for updates not expired, code: 120300
+[2023-09-22 20:08:22:0213] Using registered preference AUTO_ALL
+[2023-09-22 20:08:22:0213] Last check for updates not expired, code: 120300
+[2023-09-22 20:08:22:0427] ARM returns ERROR_SUCCESS
+[2023-09-22 20:08:22:0427] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-23 20:03:17:0953] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-23 20:04:00:0179] Newer version ARM update is not available
+[2023-09-23 20:04:00:0192] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-23 20:04:00:0192] ProductName: Adobe Acrobat (64-bit)
+[2023-09-23 20:04:00:0192] ProductVersion: 23.006.20320
+[2023-09-23 20:04:00:0192] ProductUACPatching: enabled
+[2023-09-23 20:04:06:0406] Using registered preference AUTO_ALL
+[2023-09-23 20:04:13:0351] MDOV1615
+[2023-09-23 20:04:13:0352] No files in Session, setting NO_UPDATES mode
+[2023-09-23 20:04:13:0359] Using registered preference AUTO_ALL
+[2023-09-23 20:04:14:0688] MDOV1615
+[2023-09-23 20:04:14:0693] No files in Session, setting NO_UPDATES mode
+[2023-09-23 20:04:14:0911] ARM returns ERROR_SUCCESS
+[2023-09-23 20:04:14:0911] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-23 20:15:18:0341] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-23 20:15:18:0384] Too soon to check for arm update
+[2023-09-23 20:15:18:0389] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-23 20:15:18:0389] ProductName: Adobe Acrobat (64-bit)
+[2023-09-23 20:15:18:0389] ProductVersion: 23.006.20320
+[2023-09-23 20:15:18:0389] ProductUACPatching: enabled
+[2023-09-23 20:15:18:0424] Using registered preference AUTO_ALL
+[2023-09-23 20:15:18:0425] Last check for updates not expired, code: 120300
+[2023-09-23 20:15:18:0425] Using registered preference AUTO_ALL
+[2023-09-23 20:15:18:0425] Last check for updates not expired, code: 120300
+[2023-09-23 20:15:18:0629] ARM returns ERROR_SUCCESS
+[2023-09-23 20:15:18:0629] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 11:49:37:0989] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 11:49:38:0044] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 11:49:38:0044] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 11:49:38:0044] ProductVersion: 23.006.20320
+[2023-09-24 11:49:38:0044] ProductUACPatching: enabled
+[2023-09-24 11:49:38:0090] Using CommandLine preference AUTO_ALL
+[2023-09-24 11:49:38:0092] Last check for updates not expired, code: 120300
+[2023-09-24 11:49:38:0093] Using registered preference AUTO_ALL
+[2023-09-24 11:49:38:0093] Last check for updates not expired, code: 120300
+[2023-09-24 11:49:38:0298] ARM returns ERROR_SUCCESS
+[2023-09-24 11:49:38:0298] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 11:53:03:0821] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 11:53:03:0882] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 11:53:03:0882] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 11:53:03:0882] ProductVersion: 23.006.20320
+[2023-09-24 11:53:03:0882] ProductUACPatching: enabled
+[2023-09-24 11:53:03:0928] Using CommandLine preference AUTO_ALL
+[2023-09-24 11:53:03:0929] Last check for updates not expired, code: 120300
+[2023-09-24 11:53:03:0931] Using registered preference AUTO_ALL
+[2023-09-24 11:53:03:0932] Last check for updates not expired, code: 120300
+[2023-09-24 11:53:04:0148] ARM returns ERROR_SUCCESS
+[2023-09-24 11:53:04:0148] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 11:56:27:0567] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 11:56:27:0629] Too soon to check for arm update
+[2023-09-24 11:56:27:0635] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 11:56:27:0635] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 11:56:27:0635] ProductVersion: 23.006.20320
+[2023-09-24 11:56:27:0635] ProductUACPatching: enabled
+[2023-09-24 11:56:27:0691] Using registered preference AUTO_ALL
+[2023-09-24 11:56:27:0692] Last check for updates not expired, code: 120300
+[2023-09-24 11:56:27:0692] Using registered preference AUTO_ALL
+[2023-09-24 11:56:27:0694] Last check for updates not expired, code: 120300
+[2023-09-24 11:56:27:0908] ARM returns ERROR_SUCCESS
+[2023-09-24 11:56:27:0908] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 12:19:18:0069] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 12:19:18:0208] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 12:19:18:0208] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 12:19:18:0208] ProductVersion: 23.006.20320
+[2023-09-24 12:19:18:0208] ProductUACPatching: enabled
+[2023-09-24 12:19:18:0330] Using CommandLine preference AUTO_ALL
+[2023-09-24 12:19:18:0333] Last check for updates not expired, code: 120300
+[2023-09-24 12:19:18:0335] Using registered preference AUTO_ALL
+[2023-09-24 12:19:18:0337] Last check for updates not expired, code: 120300
+[2023-09-24 12:19:18:0554] ARM returns ERROR_SUCCESS
+[2023-09-24 12:19:18:0554] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 12:34:50:0584] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 12:34:50:0698] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 12:34:50:0698] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 12:34:50:0698] ProductVersion: 23.006.20320
+[2023-09-24 12:34:50:0699] ProductUACPatching: enabled
+[2023-09-24 12:34:50:0812] Using CommandLine preference AUTO_ALL
+[2023-09-24 12:34:50:0815] Last check for updates not expired, code: 120300
+[2023-09-24 12:34:50:0816] Using registered preference AUTO_ALL
+[2023-09-24 12:34:50:0817] Last check for updates not expired, code: 120300
+[2023-09-24 12:34:51:0022] ARM returns ERROR_SUCCESS
+[2023-09-24 12:34:51:0022] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 14:22:29:0520] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 14:22:29:0597] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 14:22:29:0597] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 14:22:29:0597] ProductVersion: 23.006.20320
+[2023-09-24 14:22:29:0597] ProductUACPatching: enabled
+[2023-09-24 14:22:29:0670] Using CommandLine preference AUTO_ALL
+[2023-09-24 14:22:29:0673] Last check for updates not expired, code: 120300
+[2023-09-24 14:22:29:0674] Using registered preference AUTO_ALL
+[2023-09-24 14:22:29:0676] Last check for updates not expired, code: 120300
+[2023-09-24 14:22:29:0679] ARM returns ERROR_SUCCESS
+[2023-09-24 14:22:29:0679] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 17:38:10:0383] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 17:38:10:0493] Too soon to check for arm update
+[2023-09-24 17:38:10:0555] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 17:38:10:0555] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 17:38:10:0555] ProductVersion: 23.006.20320
+[2023-09-24 17:38:10:0555] ProductUACPatching: enabled
+[2023-09-24 17:38:10:0663] Using registered preference AUTO_ALL
+[2023-09-24 17:38:10:0663] Last check for updates not expired, code: 120300
+[2023-09-24 17:38:10:0665] Using registered preference AUTO_ALL
+[2023-09-24 17:38:10:0666] Last check for updates not expired, code: 120300
+[2023-09-24 17:38:10:0876] ARM returns ERROR_SUCCESS
+[2023-09-24 17:38:10:0876] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-24 22:04:51:0023] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-24 22:04:51:0293] Too soon to check for arm update
+[2023-09-24 22:04:51:0370] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-24 22:04:51:0371] ProductName: Adobe Acrobat (64-bit)
+[2023-09-24 22:04:51:0371] ProductVersion: 23.006.20320
+[2023-09-24 22:04:51:0371] ProductUACPatching: enabled
+[2023-09-24 22:04:51:0546] Using registered preference AUTO_ALL
+[2023-09-24 22:04:51:0547] Last check for updates not expired, code: 120300
+[2023-09-24 22:04:51:0548] Using registered preference AUTO_ALL
+[2023-09-24 22:04:51:0549] Last check for updates not expired, code: 120300
+[2023-09-24 22:04:51:0760] ARM returns ERROR_SUCCESS
+[2023-09-24 22:04:51:0760] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-25 10:42:29:0414] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-25 10:42:29:0466] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-25 10:42:29:0466] ProductName: Adobe Acrobat (64-bit)
+[2023-09-25 10:42:29:0466] ProductVersion: 23.006.20320
+[2023-09-25 10:42:29:0466] ProductUACPatching: enabled
+[2023-09-25 10:42:29:0516] Using CommandLine preference AUTO_ALL
+[2023-09-25 10:42:29:0517] Last check for updates not expired, code: 120300
+[2023-09-25 10:42:29:0518] Using registered preference AUTO_ALL
+[2023-09-25 10:42:29:0518] Last check for updates not expired, code: 120300
+[2023-09-25 10:42:29:0724] ARM returns ERROR_SUCCESS
+[2023-09-25 10:42:29:0724] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-25 10:44:07:0178] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-25 10:44:07:0229] Too soon to check for arm update
+[2023-09-25 10:44:07:0253] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-25 10:44:07:0253] ProductName: Adobe Acrobat (64-bit)
+[2023-09-25 10:44:07:0253] ProductVersion: 23.006.20320
+[2023-09-25 10:44:07:0253] ProductUACPatching: enabled
+[2023-09-25 10:44:07:0294] Using registered preference AUTO_ALL
+[2023-09-25 10:44:07:0294] Last check for updates not expired, code: 120300
+[2023-09-25 10:44:07:0295] Using registered preference AUTO_ALL
+[2023-09-25 10:44:07:0295] Last check for updates not expired, code: 120300
+[2023-09-25 10:44:07:0512] ARM returns ERROR_SUCCESS
+[2023-09-25 10:44:07:0512] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-25 10:45:18:0344] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-25 10:45:18:0379] Too soon to check for arm update
+[2023-09-25 10:45:18:0384] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-25 10:45:18:0384] ProductName: Adobe Acrobat (64-bit)
+[2023-09-25 10:45:18:0384] ProductVersion: 23.006.20320
+[2023-09-25 10:45:18:0384] ProductUACPatching: enabled
+[2023-09-25 10:45:18:0415] Using registered preference AUTO_ALL
+[2023-09-25 10:45:18:0415] Last check for updates not expired, code: 120300
+[2023-09-25 10:45:18:0415] Using registered preference AUTO_ALL
+[2023-09-25 10:45:18:0416] Last check for updates not expired, code: 120300
+[2023-09-25 10:45:18:0619] ARM returns ERROR_SUCCESS
+[2023-09-25 10:45:18:0619] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-25 11:00:01:0492] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-25 11:00:01:0530] Too soon to check for arm update
+[2023-09-25 11:00:01:0534] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-25 11:00:01:0535] ProductName: Adobe Acrobat (64-bit)
+[2023-09-25 11:00:01:0535] ProductVersion: 23.006.20320
+[2023-09-25 11:00:01:0535] ProductUACPatching: enabled
+[2023-09-25 11:00:01:0564] Using registered preference AUTO_ALL
+[2023-09-25 11:00:01:0565] Last check for updates not expired, code: 120300
+[2023-09-25 11:00:01:0565] Using registered preference AUTO_ALL
+[2023-09-25 11:00:01:0565] Last check for updates not expired, code: 120300
+[2023-09-25 11:00:01:0779] ARM returns ERROR_SUCCESS
+[2023-09-25 11:00:01:0779] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-25 22:28:10:0242] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-25 22:28:10:0358] Too soon to check for arm update
+[2023-09-25 22:28:10:0408] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-25 22:28:10:0408] ProductName: Adobe Acrobat (64-bit)
+[2023-09-25 22:28:10:0408] ProductVersion: 23.006.20320
+[2023-09-25 22:28:10:0408] ProductUACPatching: enabled
+[2023-09-25 22:28:16:0538] Using registered preference AUTO_ALL
+[2023-09-25 22:28:16:0539] Last check for updates not expired, code: 120300
+[2023-09-25 22:28:16:0540] Using registered preference AUTO_ALL
+[2023-09-25 22:28:16:0540] Last check for updates not expired, code: 120300
+[2023-09-25 22:28:16:0756] ARM returns ERROR_SUCCESS
+[2023-09-25 22:28:16:0756] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-26 14:16:57:0577] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-26 14:16:57:0673] Too soon to check for arm update
+[2023-09-26 14:16:57:0718] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-26 14:16:57:0718] ProductName: Adobe Acrobat (64-bit)
+[2023-09-26 14:16:57:0718] ProductVersion: 23.006.20320
+[2023-09-26 14:16:57:0718] ProductUACPatching: enabled
+[2023-09-26 14:16:57:0812] Using registered preference AUTO_ALL
+[2023-09-26 14:16:57:0813] Last check for updates not expired, code: 120300
+[2023-09-26 14:16:57:0814] Using registered preference AUTO_ALL
+[2023-09-26 14:16:57:0814] Last check for updates not expired, code: 120300
+[2023-09-26 14:16:58:0028] ARM returns ERROR_SUCCESS
+[2023-09-26 14:16:58:0028] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-26 14:45:18:0354] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-26 14:45:18:0422] Too soon to check for arm update
+[2023-09-26 14:45:18:0438] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-26 14:45:18:0438] ProductName: Adobe Acrobat (64-bit)
+[2023-09-26 14:45:18:0438] ProductVersion: 23.006.20320
+[2023-09-26 14:45:18:0438] ProductUACPatching: enabled
+[2023-09-26 14:45:18:0492] Using registered preference AUTO_ALL
+[2023-09-26 14:45:18:0493] Last check for updates not expired, code: 120300
+[2023-09-26 14:45:18:0493] Using registered preference AUTO_ALL
+[2023-09-26 14:45:18:0494] Last check for updates not expired, code: 120300
+[2023-09-26 14:45:18:0705] ARM returns ERROR_SUCCESS
+[2023-09-26 14:45:18:0705] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-26 22:30:34:0939] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-26 22:30:58:0302] Newer version ARM update is not available
+[2023-09-26 22:30:58:0324] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-26 22:30:58:0325] ProductName: Adobe Acrobat (64-bit)
+[2023-09-26 22:30:58:0325] ProductVersion: 23.006.20320
+[2023-09-26 22:30:58:0325] ProductUACPatching: enabled
+[2023-09-26 22:30:58:0495] Using registered preference AUTO_ALL
+[2023-09-26 22:31:01:0182] MDOV1615
+[2023-09-26 22:31:01:0185] No files in Session, setting NO_UPDATES mode
+[2023-09-26 22:31:01:0206] Using registered preference AUTO_ALL
+[2023-09-26 22:31:02:0742] MDOV1615
+[2023-09-26 22:31:02:0748] No files in Session, setting NO_UPDATES mode
+[2023-09-26 22:31:02:0981] ARM returns ERROR_SUCCESS
+[2023-09-26 22:31:02:0981] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 13:31:40:0437] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 13:31:40:0508] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 13:31:40:0508] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 13:31:40:0508] ProductVersion: 23.006.20320
+[2023-09-27 13:31:40:0508] ProductUACPatching: enabled
+[2023-09-27 13:31:40:0562] Using CommandLine preference AUTO_ALL
+[2023-09-27 13:31:40:0565] Last check for updates not expired, code: 120300
+[2023-09-27 13:31:40:0565] Using registered preference AUTO_ALL
+[2023-09-27 13:31:40:0565] Last check for updates not expired, code: 120300
+[2023-09-27 13:31:40:0777] ARM returns ERROR_SUCCESS
+[2023-09-27 13:31:40:0777] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 15:54:00:0252] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 15:54:00:0337] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 15:54:00:0337] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 15:54:00:0337] ProductVersion: 23.006.20320
+[2023-09-27 15:54:00:0337] ProductUACPatching: enabled
+[2023-09-27 15:54:01:0336] Using CommandLine preference AUTO_ALL
+[2023-09-27 15:54:01:0338] Last check for updates not expired, code: 120300
+[2023-09-27 15:54:01:0339] Using registered preference AUTO_ALL
+[2023-09-27 15:54:01:0340] Last check for updates not expired, code: 120300
+[2023-09-27 15:54:01:0549] ARM returns ERROR_SUCCESS
+[2023-09-27 15:54:01:0549] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 16:20:40:0608] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 16:20:40:0672] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 16:20:40:0672] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 16:20:40:0672] ProductVersion: 23.006.20320
+[2023-09-27 16:20:40:0672] ProductUACPatching: enabled
+[2023-09-27 16:20:40:0741] Using CommandLine preference AUTO_ALL
+[2023-09-27 16:20:40:0743] Last check for updates not expired, code: 120300
+[2023-09-27 16:20:40:0743] Using registered preference AUTO_ALL
+[2023-09-27 16:20:40:0745] Last check for updates not expired, code: 120300
+[2023-09-27 16:20:40:0946] ARM returns ERROR_SUCCESS
+[2023-09-27 16:20:40:0946] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 16:22:12:0344] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 16:22:12:0413] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 16:22:12:0413] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 16:22:12:0413] ProductVersion: 23.006.20320
+[2023-09-27 16:22:12:0413] ProductUACPatching: enabled
+[2023-09-27 16:22:12:0481] Using CommandLine preference AUTO_ALL
+[2023-09-27 16:22:12:0482] Last check for updates not expired, code: 120300
+[2023-09-27 16:22:12:0484] Using registered preference AUTO_ALL
+[2023-09-27 16:22:12:0485] Last check for updates not expired, code: 120300
+[2023-09-27 16:22:12:0696] ARM returns ERROR_SUCCESS
+[2023-09-27 16:22:12:0696] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 16:26:11:0026] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 16:26:11:0106] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 16:26:11:0106] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 16:26:11:0106] ProductVersion: 23.006.20320
+[2023-09-27 16:26:11:0106] ProductUACPatching: enabled
+[2023-09-27 16:26:11:0181] Using CommandLine preference AUTO_ALL
+[2023-09-27 16:26:11:0183] Last check for updates not expired, code: 120300
+[2023-09-27 16:26:11:0184] Using registered preference AUTO_ALL
+[2023-09-27 16:26:11:0184] Last check for updates not expired, code: 120300
+[2023-09-27 16:26:11:0389] ARM returns ERROR_SUCCESS
+[2023-09-27 16:26:11:0389] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 16:34:27:0829] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 16:34:27:0888] Too soon to check for arm update
+[2023-09-27 16:34:27:0895] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 16:34:27:0895] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 16:34:27:0895] ProductVersion: 23.006.20320
+[2023-09-27 16:34:27:0895] ProductUACPatching: enabled
+[2023-09-27 16:34:27:0948] Using registered preference AUTO_ALL
+[2023-09-27 16:34:27:0949] Last check for updates not expired, code: 120300
+[2023-09-27 16:34:27:0949] Using registered preference AUTO_ALL
+[2023-09-27 16:34:27:0950] Last check for updates not expired, code: 120300
+[2023-09-27 16:34:28:0164] ARM returns ERROR_SUCCESS
+[2023-09-27 16:34:28:0164] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 16:44:05:0632] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 16:44:05:0696] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 16:44:05:0696] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 16:44:05:0696] ProductVersion: 23.006.20320
+[2023-09-27 16:44:05:0696] ProductUACPatching: enabled
+[2023-09-27 16:44:05:0746] Using CommandLine preference AUTO_ALL
+[2023-09-27 16:44:05:0747] Last check for updates not expired, code: 120300
+[2023-09-27 16:44:05:0748] Using registered preference AUTO_ALL
+[2023-09-27 16:44:05:0748] Last check for updates not expired, code: 120300
+[2023-09-27 16:44:05:0957] ARM returns ERROR_SUCCESS
+[2023-09-27 16:44:05:0957] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-27 16:46:28:0310] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-27 16:46:28:0350] Too soon to check for arm update
+[2023-09-27 16:46:28:0355] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-27 16:46:28:0355] ProductName: Adobe Acrobat (64-bit)
+[2023-09-27 16:46:28:0355] ProductVersion: 23.006.20320
+[2023-09-27 16:46:28:0355] ProductUACPatching: enabled
+[2023-09-27 16:46:28:0390] Using registered preference AUTO_ALL
+[2023-09-27 16:46:28:0390] Last check for updates not expired, code: 120300
+[2023-09-27 16:46:28:0391] Using registered preference AUTO_ALL
+[2023-09-27 16:46:28:0391] Last check for updates not expired, code: 120300
+[2023-09-27 16:46:28:0607] ARM returns ERROR_SUCCESS
+[2023-09-27 16:46:28:0607] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-28 19:26:54:0143] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-28 19:26:54:0181] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-28 19:26:54:0181] ProductName: Adobe Acrobat (64-bit)
+[2023-09-28 19:26:54:0181] ProductVersion: 23.006.20320
+[2023-09-28 19:26:54:0181] ProductUACPatching: enabled
+[2023-09-28 19:27:13:0818] Using CommandLine preference AUTO_ALL
+[2023-09-28 19:27:13:0821] Last check for updates not expired, code: 120300
+[2023-09-28 19:27:13:0823] Using registered preference AUTO_ALL
+[2023-09-28 19:27:13:0823] Last check for updates not expired, code: 120300
+[2023-09-28 19:27:14:0045] ARM returns ERROR_SUCCESS
+[2023-09-28 19:27:14:0045] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-29 20:17:46:0749] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-29 20:17:46:0790] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-29 20:17:46:0790] ProductName: Adobe Acrobat (64-bit)
+[2023-09-29 20:17:46:0790] ProductVersion: 23.006.20320
+[2023-09-29 20:17:46:0790] ProductUACPatching: enabled
+[2023-09-29 20:17:46:0839] Using CommandLine preference AUTO_ALL
+[2023-09-29 20:17:46:0847] Last check for updates not expired, code: 120300
+[2023-09-29 20:17:46:0848] Using registered preference AUTO_ALL
+[2023-09-29 20:17:46:0849] Last check for updates not expired, code: 120300
+[2023-09-29 20:17:47:0052] ARM returns ERROR_SUCCESS
+[2023-09-29 20:17:47:0052] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-29 20:17:58:0003] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-29 20:17:58:0125] Too soon to check for arm update
+[2023-09-29 20:17:58:0190] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-29 20:17:58:0190] ProductName: Adobe Acrobat (64-bit)
+[2023-09-29 20:17:58:0190] ProductVersion: 23.006.20320
+[2023-09-29 20:17:58:0190] ProductUACPatching: enabled
+[2023-09-29 20:17:58:0334] Using registered preference AUTO_ALL
+[2023-09-29 20:17:58:0335] Last check for updates not expired, code: 120300
+[2023-09-29 20:17:58:0336] Using registered preference AUTO_ALL
+[2023-09-29 20:17:58:0337] Last check for updates not expired, code: 120300
+[2023-09-29 20:17:58:0551] ARM returns ERROR_SUCCESS
+[2023-09-29 20:17:58:0551] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-29 20:29:58:0399] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-29 20:29:58:0436] Too soon to check for arm update
+[2023-09-29 20:29:58:0441] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-29 20:29:58:0441] ProductName: Adobe Acrobat (64-bit)
+[2023-09-29 20:29:58:0441] ProductVersion: 23.006.20320
+[2023-09-29 20:29:58:0441] ProductUACPatching: enabled
+[2023-09-29 20:29:58:0475] Using registered preference AUTO_ALL
+[2023-09-29 20:29:58:0475] Last check for updates not expired, code: 120300
+[2023-09-29 20:29:58:0476] Using registered preference AUTO_ALL
+[2023-09-29 20:29:58:0477] Last check for updates not expired, code: 120300
+[2023-09-29 20:29:58:0685] ARM returns ERROR_SUCCESS
+[2023-09-29 20:29:58:0685] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-30 10:23:34:0923] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-30 10:23:35:0002] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-30 10:23:35:0002] ProductName: Adobe Acrobat (64-bit)
+[2023-09-30 10:23:35:0002] ProductVersion: 23.006.20320
+[2023-09-30 10:23:35:0002] ProductUACPatching: enabled
+[2023-09-30 10:23:35:0072] Using CommandLine preference AUTO_ALL
+[2023-09-30 10:23:59:0634] ARMDownloader::BITS Error: The connection with the server was terminated abnormally
+[2023-09-30 10:23:59:0635] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-30 10:24:07:0050] ARMDownloader::BITS Error: The connection with the server was terminated abnormally
+[2023-09-30 10:24:07:0051] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-09-30 10:24:16:0479] MDOV1615
+[2023-09-30 10:24:16:0483] No files in Session, setting NO_UPDATES mode
+[2023-09-30 10:24:16:0501] Using registered preference AUTO_ALL
+[2023-09-30 10:24:18:0358] MDOV1615
+[2023-09-30 10:24:18:0368] No files in Session, setting NO_UPDATES mode
+[2023-09-30 10:24:18:0627] ARM returns ERROR_SUCCESS
+[2023-09-30 10:24:18:0627] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-30 13:17:09:0930] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-30 13:17:27:0410] Newer version ARM update is not available
+[2023-09-30 13:17:27:0418] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-30 13:17:27:0418] ProductName: Adobe Acrobat (64-bit)
+[2023-09-30 13:17:27:0418] ProductVersion: 23.006.20320
+[2023-09-30 13:17:27:0418] ProductUACPatching: enabled
+[2023-09-30 13:17:27:0458] Using registered preference AUTO_ALL
+[2023-09-30 13:17:27:0458] Last check for updates not expired, code: 120300
+[2023-09-30 13:17:27:0459] Using registered preference AUTO_ALL
+[2023-09-30 13:17:27:0459] Last check for updates not expired, code: 120300
+[2023-09-30 13:17:27:0666] ARM returns ERROR_SUCCESS
+[2023-09-30 13:17:27:0666] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-30 13:59:58:0406] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-30 13:59:58:0479] Too soon to check for arm update
+[2023-09-30 13:59:58:0486] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-30 13:59:58:0486] ProductName: Adobe Acrobat (64-bit)
+[2023-09-30 13:59:58:0486] ProductVersion: 23.006.20320
+[2023-09-30 13:59:58:0486] ProductUACPatching: enabled
+[2023-09-30 13:59:58:0550] Using registered preference AUTO_ALL
+[2023-09-30 13:59:58:0551] Last check for updates not expired, code: 120300
+[2023-09-30 13:59:58:0551] Using registered preference AUTO_ALL
+[2023-09-30 13:59:58:0552] Last check for updates not expired, code: 120300
+[2023-09-30 13:59:58:0758] ARM returns ERROR_SUCCESS
+[2023-09-30 13:59:58:0758] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-30 19:07:41:0510] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-30 19:07:41:0591] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-30 19:07:41:0591] ProductName: Adobe Acrobat (64-bit)
+[2023-09-30 19:07:41:0591] ProductVersion: 23.006.20320
+[2023-09-30 19:07:41:0591] ProductUACPatching: enabled
+[2023-09-30 19:07:41:0664] Using CommandLine preference AUTO_ALL
+[2023-09-30 19:07:41:0666] Last check for updates not expired, code: 120300
+[2023-09-30 19:07:41:0667] Using registered preference AUTO_ALL
+[2023-09-30 19:07:41:0668] Last check for updates not expired, code: 120300
+[2023-09-30 19:07:41:0873] ARM returns ERROR_SUCCESS
+[2023-09-30 19:07:41:0873] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-09-30 19:43:59:0568] Adobe ARM 1.824.460.1052 logging started.
+[2023-09-30 19:43:59:0615] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-09-30 19:43:59:0615] ProductName: Adobe Acrobat (64-bit)
+[2023-09-30 19:43:59:0615] ProductVersion: 23.006.20320
+[2023-09-30 19:43:59:0615] ProductUACPatching: enabled
+[2023-09-30 19:43:59:0671] Using CommandLine preference AUTO_ALL
+[2023-09-30 19:43:59:0672] Last check for updates not expired, code: 120300
+[2023-09-30 19:43:59:0673] Using registered preference AUTO_ALL
+[2023-09-30 19:43:59:0673] Last check for updates not expired, code: 120300
+[2023-09-30 19:43:59:0878] ARM returns ERROR_SUCCESS
+[2023-09-30 19:43:59:0878] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 08:50:49:0308] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 08:50:49:0380] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 08:50:49:0380] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 08:50:49:0380] ProductVersion: 23.006.20320
+[2023-10-01 08:50:49:0380] ProductUACPatching: enabled
+[2023-10-01 08:50:49:0462] Using CommandLine preference AUTO_ALL
+[2023-10-01 08:50:49:0473] Last check for updates not expired, code: 120300
+[2023-10-01 08:50:49:0474] Using registered preference AUTO_ALL
+[2023-10-01 08:50:49:0475] Last check for updates not expired, code: 120300
+[2023-10-01 08:50:49:0684] ARM returns ERROR_SUCCESS
+[2023-10-01 08:50:49:0684] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 08:51:15:0777] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 08:51:16:0152] Too soon to check for arm update
+[2023-10-01 08:51:16:0239] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 08:51:16:0239] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 08:51:16:0239] ProductVersion: 23.006.20320
+[2023-10-01 08:51:16:0239] ProductUACPatching: enabled
+[2023-10-01 08:51:16:0687] Using registered preference AUTO_ALL
+[2023-10-01 08:51:16:0689] Last check for updates not expired, code: 120300
+[2023-10-01 08:51:16:0692] Using registered preference AUTO_ALL
+[2023-10-01 08:51:16:0696] Last check for updates not expired, code: 120300
+[2023-10-01 08:51:16:0913] ARM returns ERROR_SUCCESS
+[2023-10-01 08:51:16:0913] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 08:54:30:0571] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 08:54:30:0806] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 08:54:30:0806] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 08:54:30:0806] ProductVersion: 23.006.20320
+[2023-10-01 08:54:30:0806] ProductUACPatching: enabled
+[2023-10-01 08:54:31:0020] Using CommandLine preference AUTO_ALL
+[2023-10-01 08:54:31:0026] Last check for updates not expired, code: 120300
+[2023-10-01 08:54:31:0029] Using registered preference AUTO_ALL
+[2023-10-01 08:54:31:0031] Last check for updates not expired, code: 120300
+[2023-10-01 08:54:31:0250] ARM returns ERROR_SUCCESS
+[2023-10-01 08:54:31:0251] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 10:59:58:0411] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 10:59:58:0480] Too soon to check for arm update
+[2023-10-01 10:59:58:0491] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 10:59:58:0491] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 10:59:58:0491] ProductVersion: 23.006.20320
+[2023-10-01 10:59:58:0491] ProductUACPatching: enabled
+[2023-10-01 10:59:58:0578] Using registered preference AUTO_ALL
+[2023-10-01 10:59:58:0578] Last check for updates not expired, code: 120300
+[2023-10-01 10:59:58:0579] Using registered preference AUTO_ALL
+[2023-10-01 10:59:58:0579] Last check for updates not expired, code: 120300
+[2023-10-01 10:59:58:0787] ARM returns ERROR_SUCCESS
+[2023-10-01 10:59:58:0787] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 11:00:01:0542] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 11:00:01:0583] Too soon to check for arm update
+[2023-10-01 11:00:01:0588] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 11:00:01:0588] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 11:00:01:0588] ProductVersion: 23.006.20320
+[2023-10-01 11:00:01:0588] ProductUACPatching: enabled
+[2023-10-01 11:00:01:0630] Using registered preference AUTO_ALL
+[2023-10-01 11:00:01:0631] Last check for updates not expired, code: 120300
+[2023-10-01 11:00:01:0632] Using registered preference AUTO_ALL
+[2023-10-01 11:00:01:0632] Last check for updates not expired, code: 120300
+[2023-10-01 11:00:01:0845] ARM returns ERROR_SUCCESS
+[2023-10-01 11:00:01:0845] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 14:29:58:0423] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 14:29:58:0470] Too soon to check for arm update
+[2023-10-01 14:29:58:0478] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 14:29:58:0478] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 14:29:58:0478] ProductVersion: 23.006.20320
+[2023-10-01 14:29:58:0478] ProductUACPatching: enabled
+[2023-10-01 14:29:58:0511] Using registered preference AUTO_ALL
+[2023-10-01 14:29:58:0512] Last check for updates not expired, code: 120300
+[2023-10-01 14:29:58:0513] Using registered preference AUTO_ALL
+[2023-10-01 14:29:58:0513] Last check for updates not expired, code: 120300
+[2023-10-01 14:29:58:0729] ARM returns ERROR_SUCCESS
+[2023-10-01 14:29:58:0729] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 18:00:23:0866] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 18:00:23:0944] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 18:00:23:0944] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 18:00:23:0944] ProductVersion: 23.006.20320
+[2023-10-01 18:00:23:0944] ProductUACPatching: enabled
+[2023-10-01 18:00:24:0019] Using CommandLine preference AUTO_ALL
+[2023-10-01 18:00:24:0021] Last check for updates not expired, code: 120300
+[2023-10-01 18:00:24:0022] Using registered preference AUTO_ALL
+[2023-10-01 18:00:24:0022] Last check for updates not expired, code: 120300
+[2023-10-01 18:00:24:0228] ARM returns ERROR_SUCCESS
+[2023-10-01 18:00:24:0228] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 20:03:33:0186] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 20:03:33:0233] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 20:03:33:0233] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 20:03:33:0233] ProductVersion: 23.006.20320
+[2023-10-01 20:03:33:0233] ProductUACPatching: enabled
+[2023-10-01 20:03:33:0282] Using CommandLine preference AUTO_ALL
+[2023-10-01 20:03:33:0283] Last check for updates not expired, code: 120300
+[2023-10-01 20:03:33:0284] Using registered preference AUTO_ALL
+[2023-10-01 20:03:33:0284] Last check for updates not expired, code: 120300
+[2023-10-01 20:03:33:0499] ARM returns ERROR_SUCCESS
+[2023-10-01 20:03:33:0499] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 22:52:55:0520] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 22:52:55:0641] Too soon to check for arm update
+[2023-10-01 22:52:55:0773] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 22:52:55:0773] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 22:52:55:0773] ProductVersion: 23.006.20320
+[2023-10-01 22:52:55:0773] ProductUACPatching: enabled
+[2023-10-01 22:52:55:0808] Using registered preference AUTO_ALL
+[2023-10-01 22:52:55:0808] Last check for updates not expired, code: 120300
+[2023-10-01 22:52:55:0808] Using registered preference AUTO_ALL
+[2023-10-01 22:52:55:0809] Last check for updates not expired, code: 120300
+[2023-10-01 22:52:56:0019] ARM returns ERROR_SUCCESS
+[2023-10-01 22:52:56:0019] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-01 23:01:22:0571] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-01 23:01:22:0861] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-01 23:01:22:0861] ProductName: Adobe Acrobat (64-bit)
+[2023-10-01 23:01:22:0861] ProductVersion: 23.006.20320
+[2023-10-01 23:01:22:0861] ProductUACPatching: enabled
+[2023-10-01 23:01:23:0171] Using CommandLine preference AUTO_ALL
+[2023-10-01 23:01:23:0176] Last check for updates not expired, code: 120300
+[2023-10-01 23:01:23:0179] Using registered preference AUTO_ALL
+[2023-10-01 23:01:23:0181] Last check for updates not expired, code: 120300
+[2023-10-01 23:01:23:0184] ARM returns ERROR_SUCCESS
+[2023-10-01 23:01:23:0184] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-02 11:32:48:0943] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-02 11:32:49:0108] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-02 11:32:49:0108] ProductName: Adobe Acrobat (64-bit)
+[2023-10-02 11:32:49:0108] ProductVersion: 23.006.20320
+[2023-10-02 11:32:49:0108] ProductUACPatching: enabled
+[2023-10-02 11:32:49:0253] Using CommandLine preference AUTO_ALL
+[2023-10-02 11:32:49:0260] Last check for updates not expired, code: 120300
+[2023-10-02 11:32:49:0262] Using registered preference AUTO_ALL
+[2023-10-02 11:32:49:0263] Last check for updates not expired, code: 120300
+[2023-10-02 11:32:49:0475] ARM returns ERROR_SUCCESS
+[2023-10-02 11:32:49:0475] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-02 13:08:09:0330] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-02 13:08:09:0401] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-02 13:08:09:0401] ProductName: Adobe Acrobat (64-bit)
+[2023-10-02 13:08:09:0401] ProductVersion: 23.006.20320
+[2023-10-02 13:08:09:0401] ProductUACPatching: enabled
+[2023-10-02 13:08:09:0490] Using CommandLine preference AUTO_ALL
+[2023-10-02 13:08:09:0491] Last check for updates not expired, code: 120300
+[2023-10-02 13:08:09:0493] Using registered preference AUTO_ALL
+[2023-10-02 13:08:09:0494] Last check for updates not expired, code: 120300
+[2023-10-02 13:08:09:0497] ARM returns ERROR_SUCCESS
+[2023-10-02 13:08:09:0497] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-02 14:53:02:0880] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-02 14:53:02:0941] Too soon to check for arm update
+[2023-10-02 14:53:02:0966] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-02 14:53:02:0966] ProductName: Adobe Acrobat (64-bit)
+[2023-10-02 14:53:02:0966] ProductVersion: 23.006.20320
+[2023-10-02 14:53:02:0966] ProductUACPatching: enabled
+[2023-10-02 14:53:03:0029] Using registered preference AUTO_ALL
+[2023-10-02 14:53:03:0030] Last check for updates not expired, code: 120300
+[2023-10-02 14:53:03:0031] Using registered preference AUTO_ALL
+[2023-10-02 14:53:03:0031] Last check for updates not expired, code: 120300
+[2023-10-02 14:53:03:0234] ARM returns ERROR_SUCCESS
+[2023-10-02 14:53:03:0234] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-02 14:59:58:0394] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-02 14:59:58:0444] Too soon to check for arm update
+[2023-10-02 14:59:58:0458] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-02 14:59:58:0458] ProductName: Adobe Acrobat (64-bit)
+[2023-10-02 14:59:58:0458] ProductVersion: 23.006.20320
+[2023-10-02 14:59:58:0458] ProductUACPatching: enabled
+[2023-10-02 14:59:58:0501] Using registered preference AUTO_ALL
+[2023-10-02 14:59:58:0502] Last check for updates not expired, code: 120300
+[2023-10-02 14:59:58:0502] Using registered preference AUTO_ALL
+[2023-10-02 14:59:58:0503] Last check for updates not expired, code: 120300
+[2023-10-02 14:59:58:0706] ARM returns ERROR_SUCCESS
+[2023-10-02 14:59:58:0706] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-02 19:24:57:0465] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-02 19:24:57:0556] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-02 19:24:57:0556] ProductName: Adobe Acrobat (64-bit)
+[2023-10-02 19:24:57:0556] ProductVersion: 23.006.20320
+[2023-10-02 19:24:57:0556] ProductUACPatching: enabled
+[2023-10-02 19:24:57:0619] Using CommandLine preference AUTO_ALL
+[2023-10-02 19:24:57:0621] Last check for updates not expired, code: 120300
+[2023-10-02 19:24:57:0621] Using registered preference AUTO_ALL
+[2023-10-02 19:24:57:0622] Last check for updates not expired, code: 120300
+[2023-10-02 19:24:57:0839] ARM returns ERROR_SUCCESS
+[2023-10-02 19:24:57:0839] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-03 08:44:54:0277] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-03 08:44:54:0704] Too soon to check for arm update
+[2023-10-03 08:44:54:0908] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-03 08:44:54:0909] ProductName: Adobe Acrobat (64-bit)
+[2023-10-03 08:44:54:0909] ProductVersion: 23.006.20320
+[2023-10-03 08:44:54:0909] ProductUACPatching: enabled
+[2023-10-03 08:45:07:0423] Using registered preference AUTO_ALL
+[2023-10-03 08:45:07:0424] Last check for updates not expired, code: 120300
+[2023-10-03 08:45:07:0426] Using registered preference AUTO_ALL
+[2023-10-03 08:45:07:0427] Last check for updates not expired, code: 120300
+[2023-10-03 08:45:07:0688] ARM returns ERROR_SUCCESS
+[2023-10-03 08:45:07:0688] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-03 11:00:01:0699] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-03 11:00:01:0743] Too soon to check for arm update
+[2023-10-03 11:00:01:0755] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-03 11:00:01:0755] ProductName: Adobe Acrobat (64-bit)
+[2023-10-03 11:00:01:0755] ProductVersion: 23.006.20320
+[2023-10-03 11:00:01:0755] ProductUACPatching: enabled
+[2023-10-03 11:00:01:0793] Using registered preference AUTO_ALL
+[2023-10-03 11:00:23:0239] MDOV1615
+[2023-10-03 11:00:23:0240] No files in Session, setting NO_UPDATES mode
+[2023-10-03 11:00:23:0252] Using registered preference AUTO_ALL
+[2023-10-03 11:00:24:0683] MDOV1615
+[2023-10-03 11:00:24:0689] No files in Session, setting NO_UPDATES mode
+[2023-10-03 11:00:24:0912] ARM returns ERROR_SUCCESS
+[2023-10-03 11:00:24:0912] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-03 11:59:58:0407] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-03 11:59:58:0451] Too soon to check for arm update
+[2023-10-03 11:59:58:0462] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-03 11:59:58:0462] ProductName: Adobe Acrobat (64-bit)
+[2023-10-03 11:59:58:0462] ProductVersion: 23.006.20320
+[2023-10-03 11:59:58:0462] ProductUACPatching: enabled
+[2023-10-03 11:59:58:0496] Using registered preference AUTO_ALL
+[2023-10-03 11:59:58:0496] Last check for updates not expired, code: 120300
+[2023-10-03 11:59:58:0496] Using registered preference AUTO_ALL
+[2023-10-03 11:59:58:0497] Last check for updates not expired, code: 120300
+[2023-10-03 11:59:58:0706] ARM returns ERROR_SUCCESS
+[2023-10-03 11:59:58:0706] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-03 18:45:49:0359] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-03 18:45:49:0431] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-03 18:45:49:0431] ProductName: Adobe Acrobat (64-bit)
+[2023-10-03 18:45:49:0431] ProductVersion: 23.006.20320
+[2023-10-03 18:45:49:0431] ProductUACPatching: enabled
+[2023-10-03 18:45:49:0502] Using CommandLine preference AUTO_ALL
+[2023-10-03 18:45:49:0504] Last check for updates not expired, code: 120300
+[2023-10-03 18:45:49:0505] Using registered preference AUTO_ALL
+[2023-10-03 18:45:49:0505] Last check for updates not expired, code: 120300
+[2023-10-03 18:45:49:0711] ARM returns ERROR_SUCCESS
+[2023-10-03 18:45:49:0711] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-03 19:55:38:0779] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-03 19:55:44:0027] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-03 19:55:44:0027] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-03 19:55:44:0132] all BITs attempts failed
+[2023-10-03 19:55:44:0132]  Error Code: -2145386495
+[2023-10-03 19:55:44:0132] ** Setting Error Condition: 140000
+[2023-10-03 19:55:44:0136] BITs failed, download manifest Job is not in Transferred state
+[2023-10-03 19:55:44:0735] BB download failed: https://armmf.adobe.com/arm-manifests/win/ArmManifest3.msi
+[2023-10-03 19:55:44:0745] Invalid ProductVersion in Session
+[2023-10-03 19:55:44:0746] ProductName: Adobe Acrobat (64-bit)
+[2023-10-03 19:55:44:0751] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-03 19:55:44:0751] ProductName: Adobe Acrobat (64-bit)
+[2023-10-03 19:55:44:0751] ProductVersion: 23.006.20320
+[2023-10-03 19:55:44:0751] ProductUACPatching: enabled
+[2023-10-03 19:55:44:0784] Using registered preference AUTO_ALL
+[2023-10-03 19:55:44:0785] Last check for updates not expired, code: 120300
+[2023-10-03 19:55:44:0785] Using registered preference AUTO_ALL
+[2023-10-03 19:55:44:0785] Last check for updates not expired, code: 120300
+[2023-10-03 19:55:44:0991] ARM returns ERROR_SUCCESS
+[2023-10-03 19:55:44:0991] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-04 11:32:36:0270] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-04 11:32:36:0369] Too soon to check for arm update
+[2023-10-04 11:32:36:0382] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-04 11:32:36:0382] ProductName: Adobe Acrobat (64-bit)
+[2023-10-04 11:32:36:0382] ProductVersion: 23.006.20320
+[2023-10-04 11:32:36:0382] ProductUACPatching: enabled
+[2023-10-04 11:32:36:0465] Using registered preference AUTO_ALL
+[2023-10-04 11:32:36:0466] Last check for updates not expired, code: 120300
+[2023-10-04 11:32:36:0467] Using registered preference AUTO_ALL
+[2023-10-04 11:32:36:0467] Last check for updates not expired, code: 120300
+[2023-10-04 11:32:36:0682] ARM returns ERROR_SUCCESS
+[2023-10-04 11:32:36:0682] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-04 14:35:38:0136] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-04 14:35:38:0286] Too soon to check for arm update
+[2023-10-04 14:35:38:0303] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-04 14:35:38:0303] ProductName: Adobe Acrobat (64-bit)
+[2023-10-04 14:35:38:0303] ProductVersion: 23.006.20320
+[2023-10-04 14:35:38:0303] ProductUACPatching: enabled
+[2023-10-04 14:35:38:0433] Using registered preference AUTO_ALL
+[2023-10-04 14:35:38:0434] Last check for updates not expired, code: 120300
+[2023-10-04 14:35:38:0436] Using registered preference AUTO_ALL
+[2023-10-04 14:35:38:0437] Last check for updates not expired, code: 120300
+[2023-10-04 14:35:38:0650] ARM returns ERROR_SUCCESS
+[2023-10-04 14:35:38:0650] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-04 15:59:58:0418] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-04 15:59:58:0473] Too soon to check for arm update
+[2023-10-04 15:59:58:0484] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-04 15:59:58:0484] ProductName: Adobe Acrobat (64-bit)
+[2023-10-04 15:59:58:0484] ProductVersion: 23.006.20320
+[2023-10-04 15:59:58:0484] ProductUACPatching: enabled
+[2023-10-04 15:59:58:0528] Using registered preference AUTO_ALL
+[2023-10-04 15:59:58:0529] Last check for updates not expired, code: 120300
+[2023-10-04 15:59:58:0529] Using registered preference AUTO_ALL
+[2023-10-04 15:59:58:0529] Last check for updates not expired, code: 120300
+[2023-10-04 15:59:58:0740] ARM returns ERROR_SUCCESS
+[2023-10-04 15:59:58:0740] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-04 19:30:40:0311] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-04 19:30:40:0443] Too soon to check for arm update
+[2023-10-04 19:30:40:0456] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-04 19:30:40:0456] ProductName: Adobe Acrobat (64-bit)
+[2023-10-04 19:30:40:0456] ProductVersion: 23.006.20320
+[2023-10-04 19:30:40:0456] ProductUACPatching: enabled
+[2023-10-04 19:30:40:0541] Using registered preference AUTO_ALL
+[2023-10-04 19:30:40:0542] Last check for updates not expired, code: 120300
+[2023-10-04 19:30:40:0543] Using registered preference AUTO_ALL
+[2023-10-04 19:30:40:0544] Last check for updates not expired, code: 120300
+[2023-10-04 19:30:40:0759] ARM returns ERROR_SUCCESS
+[2023-10-04 19:30:40:0760] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-05 14:12:37:0179] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-05 14:12:37:0321] Too soon to check for arm update
+[2023-10-05 14:12:37:0348] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-05 14:12:37:0348] ProductName: Adobe Acrobat (64-bit)
+[2023-10-05 14:12:37:0348] ProductVersion: 23.006.20320
+[2023-10-05 14:12:37:0348] ProductUACPatching: enabled
+[2023-10-05 14:12:37:0471] Using registered preference AUTO_ALL
+[2023-10-05 14:12:37:0472] Last check for updates not expired, code: 120300
+[2023-10-05 14:12:37:0474] Using registered preference AUTO_ALL
+[2023-10-05 14:12:37:0475] Last check for updates not expired, code: 120300
+[2023-10-05 14:12:37:0690] ARM returns ERROR_SUCCESS
+[2023-10-05 14:12:37:0690] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-05 23:09:34:0455] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-05 23:09:34:0793] Too soon to check for arm update
+[2023-10-05 23:09:34:0872] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-05 23:09:34:0872] ProductName: Adobe Acrobat (64-bit)
+[2023-10-05 23:09:34:0872] ProductVersion: 23.006.20320
+[2023-10-05 23:09:34:0872] ProductUACPatching: enabled
+[2023-10-05 23:09:35:0141] Using registered preference AUTO_ALL
+[2023-10-05 23:09:35:0141] Last check for updates not expired, code: 120300
+[2023-10-05 23:09:35:0153] Using registered preference AUTO_ALL
+[2023-10-05 23:09:35:0153] Last check for updates not expired, code: 120300
+[2023-10-05 23:09:35:0361] ARM returns ERROR_SUCCESS
+[2023-10-05 23:09:35:0361] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-05 23:29:58:0437] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-05 23:29:58:0532] Too soon to check for arm update
+[2023-10-05 23:29:58:0544] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-05 23:29:58:0544] ProductName: Adobe Acrobat (64-bit)
+[2023-10-05 23:29:58:0544] ProductVersion: 23.006.20320
+[2023-10-05 23:29:58:0544] ProductUACPatching: enabled
+[2023-10-05 23:29:58:0610] Using registered preference AUTO_ALL
+[2023-10-05 23:29:58:0611] Last check for updates not expired, code: 120300
+[2023-10-05 23:29:58:0612] Using registered preference AUTO_ALL
+[2023-10-05 23:29:58:0614] Last check for updates not expired, code: 120300
+[2023-10-05 23:29:58:0828] ARM returns ERROR_SUCCESS
+[2023-10-05 23:29:58:0828] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-06 19:15:49:0841] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-06 19:15:50:0571] Too soon to check for arm update
+[2023-10-06 19:15:50:0955] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-06 19:15:50:0955] ProductName: Adobe Acrobat (64-bit)
+[2023-10-06 19:15:50:0955] ProductVersion: 23.006.20320
+[2023-10-06 19:15:50:0955] ProductUACPatching: enabled
+[2023-10-06 19:15:51:0234] Using registered preference AUTO_ALL
+[2023-10-06 19:16:04:0155] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:04:0155] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:11:0533] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:11:0533] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:12:0659] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:12:0660] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:13:0790] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:13:0790] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:14:0918] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:14:0918] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:16:0040] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:16:0041] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:17:0164] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:17:0165] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:18:0305] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:18:0306] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:19:0434] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:19:0435] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:20:0558] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:20:0559] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:21:0690] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:21:0690] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:22:0822] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:22:0822] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:23:0952] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:23:0953] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:25:0082] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:25:0083] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:26:0205] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:26:0205] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:27:0363] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:27:0364] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:28:0484] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:28:0484] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:29:0610] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:29:0610] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:30:0750] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:30:0751] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:31:0883] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:31:0884] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:33:0051] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:33:0052] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:34:0192] ARMDownloader::BITS Error: The server name or address could not be resolved
+[2023-10-06 19:16:34:0193] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:16:34:0324] all BITs attempts failed
+[2023-10-06 19:16:34:0324]  Error Code: -2145386495
+[2023-10-06 19:16:34:0324] ** Setting Error Condition: 140000
+[2023-10-06 19:16:34:0409] BITs failed, download manifest Job is not in Transferred state
+[2023-10-06 19:17:38:0774] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-06 19:17:38:0820] Using registered preference AUTO_ALL
+[2023-10-06 19:26:03:0677] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:03:0678] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:11:0096] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:11:0096] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:12:0226] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:12:0226] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:13:0363] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:13:0363] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:14:0497] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:14:0497] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:15:0628] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:15:0628] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:16:0750] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:16:0750] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:17:0870] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:17:0870] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:19:0005] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:19:0005] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:20:0129] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:20:0130] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:21:0251] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:21:0251] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:22:0376] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:22:0376] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:23:0503] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:23:0504] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:24:0629] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:24:0629] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:25:0763] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:25:0763] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:26:0904] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:26:0904] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:28:0047] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:28:0048] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:29:0182] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:29:0183] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:30:0300] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:30:0300] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:31:0421] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:31:0422] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:32:0548] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:32:0548] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:33:0675] ARMDownloader::BITS Error: A connection with the server could not be established
+[2023-10-06 19:26:33:0676] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 19:26:33:0785] all BITs attempts failed
+[2023-10-06 19:26:33:0785]  Error Code: -2145386495
+[2023-10-06 19:26:33:0785] ** Setting Error Condition: 140000
+[2023-10-06 19:26:33:0808] BITs failed, download manifest Job is not in Transferred state
+[2023-10-06 19:27:38:0059] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-06 19:27:38:0315] ARM returns ERROR_SUCCESS
+[2023-10-06 19:27:38:0315] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-06 20:29:58:0402] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-06 20:29:59:0321] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-06 20:29:59:0321] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 20:29:59:0429] all BITs attempts failed
+[2023-10-06 20:29:59:0429]  Error Code: -2145386495
+[2023-10-06 20:29:59:0429] ** Setting Error Condition: 140000
+[2023-10-06 20:29:59:0434] BITs failed, download manifest Job is not in Transferred state
+[2023-10-06 20:30:00:0036] BB download failed: https://armmf.adobe.com/arm-manifests/win/ArmManifest3.msi
+[2023-10-06 20:30:00:0048] Invalid ProductVersion in Session
+[2023-10-06 20:30:00:0049] ProductName: Adobe Acrobat (64-bit)
+[2023-10-06 20:30:00:0057] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-06 20:30:00:0057] ProductName: Adobe Acrobat (64-bit)
+[2023-10-06 20:30:00:0057] ProductVersion: 23.006.20320
+[2023-10-06 20:30:00:0057] ProductUACPatching: enabled
+[2023-10-06 20:30:00:0098] Using registered preference AUTO_ALL
+[2023-10-06 20:30:01:0244] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-06 20:30:01:0245] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 20:30:01:0353] all BITs attempts failed
+[2023-10-06 20:30:01:0353]  Error Code: -2145386495
+[2023-10-06 20:30:01:0353] ** Setting Error Condition: 140000
+[2023-10-06 20:30:01:0359] BITs failed, download manifest Job is not in Transferred state
+[2023-10-06 20:30:01:0590] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-06 20:30:01:0622] Using registered preference AUTO_ALL
+[2023-10-06 20:30:02:0759] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-06 20:30:02:0760] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-06 20:30:02:0869] all BITs attempts failed
+[2023-10-06 20:30:02:0869]  Error Code: -2145386495
+[2023-10-06 20:30:02:0869] ** Setting Error Condition: 140000
+[2023-10-06 20:30:02:0874] BITs failed, download manifest Job is not in Transferred state
+[2023-10-06 20:30:03:0228] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-06 20:30:03:0444] ARM returns ERROR_SUCCESS
+[2023-10-06 20:30:03:0444] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-07 17:06:14:0755] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-07 17:06:14:0835] Too soon to check for arm update
+[2023-10-07 17:06:14:0851] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-07 17:06:14:0851] ProductName: Adobe Acrobat (64-bit)
+[2023-10-07 17:06:14:0851] ProductVersion: 23.006.20320
+[2023-10-07 17:06:14:0851] ProductUACPatching: enabled
+[2023-10-07 17:06:36:0351] Using registered preference AUTO_ALL
+[2023-10-07 17:06:41:0729] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-07 17:06:41:0729] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-07 17:06:41:0837] all BITs attempts failed
+[2023-10-07 17:06:41:0837]  Error Code: -2145386495
+[2023-10-07 17:06:41:0837] ** Setting Error Condition: 140000
+[2023-10-07 17:06:41:0841] BITs failed, download manifest Job is not in Transferred state
+[2023-10-07 17:06:42:0391] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-07 17:06:42:0416] Using registered preference AUTO_ALL
+[2023-10-07 17:06:43:0551] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-07 17:06:43:0551] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-07 17:06:43:0660] all BITs attempts failed
+[2023-10-07 17:06:43:0660]  Error Code: -2145386495
+[2023-10-07 17:06:43:0660] ** Setting Error Condition: 140000
+[2023-10-07 17:06:43:0665] BITs failed, download manifest Job is not in Transferred state
+[2023-10-07 17:06:43:0793] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-07 17:06:44:0019] ARM returns ERROR_SUCCESS
+[2023-10-07 17:06:44:0019] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-07 21:05:35:0738] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-07 21:05:35:0932] Too soon to check for arm update
+[2023-10-07 21:05:35:0973] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-07 21:05:35:0973] ProductName: Adobe Acrobat (64-bit)
+[2023-10-07 21:05:35:0973] ProductVersion: 23.006.20320
+[2023-10-07 21:05:35:0973] ProductUACPatching: enabled
+[2023-10-07 21:05:36:0226] Using registered preference AUTO_ALL
+[2023-10-07 21:05:40:0522] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-07 21:05:40:0522] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-07 21:05:40:0631] all BITs attempts failed
+[2023-10-07 21:05:40:0631]  Error Code: -2145386495
+[2023-10-07 21:05:40:0631] ** Setting Error Condition: 140000
+[2023-10-07 21:05:40:0635] BITs failed, download manifest Job is not in Transferred state
+[2023-10-07 21:05:41:0608] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-07 21:05:41:0621] Using registered preference AUTO_ALL
+[2023-10-07 21:05:42:0755] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-07 21:05:42:0755] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-07 21:05:42:0862] all BITs attempts failed
+[2023-10-07 21:05:42:0862]  Error Code: -2145386495
+[2023-10-07 21:05:42:0862] ** Setting Error Condition: 140000
+[2023-10-07 21:05:42:0866] BITs failed, download manifest Job is not in Transferred state
+[2023-10-07 21:05:43:0179] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-07 21:05:43:0407] ARM returns ERROR_SUCCESS
+[2023-10-07 21:05:43:0407] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-09 20:07:35:0881] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-09 20:07:35:0974] Too soon to check for arm update
+[2023-10-09 20:07:36:0051] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-09 20:07:36:0051] ProductName: Adobe Acrobat (64-bit)
+[2023-10-09 20:07:36:0051] ProductVersion: 23.006.20320
+[2023-10-09 20:07:36:0051] ProductUACPatching: enabled
+[2023-10-09 20:07:36:0112] Using registered preference AUTO_ALL
+[2023-10-09 20:07:50:0214] MDOV1615
+[2023-10-09 20:07:50:0216] No files in Session, setting NO_UPDATES mode
+[2023-10-09 20:07:50:0228] Using registered preference AUTO_ALL
+[2023-10-09 20:07:51:0573] MDOV1615
+[2023-10-09 20:07:51:0576] No files in Session, setting NO_UPDATES mode
+[2023-10-09 20:07:51:0794] ARM returns ERROR_SUCCESS
+[2023-10-09 20:07:51:0794] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-11 12:34:28:0260] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-11 12:34:45:0060] Newer version ARM update is not available
+[2023-10-11 12:34:45:0069] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-11 12:34:45:0069] ProductName: Adobe Acrobat (64-bit)
+[2023-10-11 12:34:45:0069] ProductVersion: 23.006.20320
+[2023-10-11 12:34:45:0069] ProductUACPatching: enabled
+[2023-10-11 12:34:46:0754] Using registered preference AUTO_ALL
+[2023-10-11 12:34:46:0755] Last check for updates not expired, code: 120300
+[2023-10-11 12:34:46:0755] Using registered preference AUTO_ALL
+[2023-10-11 12:34:46:0756] Last check for updates not expired, code: 120300
+[2023-10-11 12:34:46:0960] ARM returns ERROR_SUCCESS
+[2023-10-11 12:34:46:0960] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-13 12:57:23:0065] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-13 12:57:23:0163] Too soon to check for arm update
+[2023-10-13 12:57:23:0208] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-13 12:57:23:0208] ProductName: Adobe Acrobat (64-bit)
+[2023-10-13 12:57:23:0208] ProductVersion: 23.006.20320
+[2023-10-13 12:57:23:0208] ProductUACPatching: enabled
+[2023-10-13 12:57:44:0760] Using registered preference AUTO_ALL
+[2023-10-13 12:57:50:0093] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-13 12:57:50:0094] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-13 12:57:50:0200] all BITs attempts failed
+[2023-10-13 12:57:50:0200]  Error Code: -2145386495
+[2023-10-13 12:57:50:0200] ** Setting Error Condition: 140000
+[2023-10-13 12:57:50:0204] BITs failed, download manifest Job is not in Transferred state
+[2023-10-13 12:57:50:0716] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-13 12:57:50:0754] Using registered preference AUTO_ALL
+[2023-10-13 12:57:51:0892] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-13 12:57:51:0892] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-13 12:57:52:0002] all BITs attempts failed
+[2023-10-13 12:57:52:0002]  Error Code: -2145386495
+[2023-10-13 12:57:52:0004] ** Setting Error Condition: 140000
+[2023-10-13 12:57:52:0007] BITs failed, download manifest Job is not in Transferred state
+[2023-10-13 12:57:52:0123] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-13 12:57:52:0350] ARM returns ERROR_SUCCESS
+[2023-10-13 12:57:52:0350] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-13 13:09:22:0849] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-13 13:09:22:0884] Too soon to check for arm update
+[2023-10-13 13:09:22:0888] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-13 13:09:22:0888] ProductName: Adobe Acrobat (64-bit)
+[2023-10-13 13:09:22:0888] ProductVersion: 23.006.20320
+[2023-10-13 13:09:22:0888] ProductUACPatching: enabled
+[2023-10-13 13:09:22:0924] Using registered preference AUTO_ALL
+[2023-10-13 13:09:28:0232] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-13 13:09:28:0232] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-13 13:09:28:0340] all BITs attempts failed
+[2023-10-13 13:09:28:0340]  Error Code: -2145386495
+[2023-10-13 13:09:28:0340] ** Setting Error Condition: 140000
+[2023-10-13 13:09:28:0344] BITs failed, download manifest Job is not in Transferred state
+[2023-10-13 13:09:28:0797] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-13 13:09:28:0814] Using registered preference AUTO_ALL
+[2023-10-13 13:09:29:0950] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-13 13:09:29:0950] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-13 13:09:30:0060] all BITs attempts failed
+[2023-10-13 13:09:30:0060]  Error Code: -2145386495
+[2023-10-13 13:09:30:0060] ** Setting Error Condition: 140000
+[2023-10-13 13:09:30:0064] BITs failed, download manifest Job is not in Transferred state
+[2023-10-13 13:09:30:0165] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-13 13:09:30:0390] ARM returns ERROR_SUCCESS
+[2023-10-13 13:09:30:0390] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-15 10:28:10:0271] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-15 10:28:15:0498] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-15 10:28:15:0498] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-15 10:28:45:0744] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-15 10:28:45:0744] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-15 10:28:45:0914] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-15 10:28:45:0914] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-15 10:28:46:0085] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-15 10:28:46:0085] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-15 10:28:46:0257] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-15 10:28:46:0257] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-15 10:28:46:0428] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-15 10:28:46:0428] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-15 10:28:47:0712] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-15 10:28:47:0712] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-15 10:28:47:0822] all BITs attempts failed
+[2023-10-15 10:28:47:0822]  Error Code: -2145386495
+[2023-10-15 10:28:47:0822] ** Setting Error Condition: 140000
+[2023-10-15 10:28:47:0828] BITs failed, download manifest Job is not in Transferred state
+[2023-10-15 10:28:48:0493] BB download failed: https://armmf.adobe.com/arm-manifests/win/ArmManifest3.msi
+[2023-10-15 10:28:48:0504] Invalid ProductVersion in Session
+[2023-10-15 10:28:48:0505] ProductName: Adobe Acrobat (64-bit)
+[2023-10-15 10:28:48:0515] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-15 10:28:48:0515] ProductName: Adobe Acrobat (64-bit)
+[2023-10-15 10:28:48:0515] ProductVersion: 23.006.20320
+[2023-10-15 10:28:48:0515] ProductUACPatching: enabled
+[2023-10-15 10:28:48:0551] Using registered preference AUTO_ALL
+[2023-10-15 10:28:49:0689] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-15 10:28:49:0689] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-15 10:28:49:0796] all BITs attempts failed
+[2023-10-15 10:28:49:0796]  Error Code: -2145386495
+[2023-10-15 10:28:49:0796] ** Setting Error Condition: 140000
+[2023-10-15 10:28:49:0800] BITs failed, download manifest Job is not in Transferred state
+[2023-10-15 10:28:49:0934] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-15 10:28:49:0942] Using registered preference AUTO_ALL
+[2023-10-15 10:28:51:0088] ARMDownloader::BITS Error: HTTP status 403: The client does not have sufficient access rights to the requested server object.
+[2023-10-15 10:28:51:0088] ARMDownloader::BITS Error Context: The error occurred while the remote file was being processed.
+[2023-10-15 10:28:51:0194] all BITs attempts failed
+[2023-10-15 10:28:51:0194]  Error Code: -2145386495
+[2023-10-15 10:28:51:0194] ** Setting Error Condition: 140000
+[2023-10-15 10:28:51:0199] BITs failed, download manifest Job is not in Transferred state
+[2023-10-15 10:28:51:0343] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-15 10:28:51:0566] ARM returns ERROR_SUCCESS
+[2023-10-15 10:28:51:0566] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-15 10:34:06:0663] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-15 10:34:06:0822] Too soon to check for arm update
+[2023-10-15 10:34:06:0831] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-15 10:34:06:0831] ProductName: Adobe Acrobat (64-bit)
+[2023-10-15 10:34:06:0831] ProductVersion: 23.006.20320
+[2023-10-15 10:34:06:0831] ProductUACPatching: enabled
+[2023-10-15 10:34:06:0908] Using registered preference AUTO_ALL
+[2023-10-15 10:34:26:0076] MDOV1615
+[2023-10-15 10:34:26:0078] No files in Session, setting NO_UPDATES mode
+[2023-10-15 10:34:26:0096] Using registered preference AUTO_ALL
+[2023-10-15 10:34:28:0621] MDOV1615
+[2023-10-15 10:34:28:0625] No files in Session, setting NO_UPDATES mode
+[2023-10-15 10:34:28:0852] ARM returns ERROR_SUCCESS
+[2023-10-15 10:34:28:0852] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-15 10:39:23:0344] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-15 10:39:23:0397] Too soon to check for arm update
+[2023-10-15 10:39:23:0403] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-15 10:39:23:0403] ProductName: Adobe Acrobat (64-bit)
+[2023-10-15 10:39:23:0403] ProductVersion: 23.006.20320
+[2023-10-15 10:39:23:0403] ProductUACPatching: enabled
+[2023-10-15 10:39:23:0451] Using registered preference AUTO_ALL
+[2023-10-15 10:39:23:0451] Last check for updates not expired, code: 120300
+[2023-10-15 10:39:23:0451] Using registered preference AUTO_ALL
+[2023-10-15 10:39:23:0452] Last check for updates not expired, code: 120300
+[2023-10-15 10:39:23:0660] ARM returns ERROR_SUCCESS
+[2023-10-15 10:39:23:0660] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-16 12:04:55:0779] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-16 12:04:55:0843] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-16 12:04:55:0843] ProductName: Adobe Acrobat (64-bit)
+[2023-10-16 12:04:55:0843] ProductVersion: 23.006.20320
+[2023-10-16 12:04:55:0843] ProductUACPatching: enabled
+[2023-10-16 12:04:55:0887] Using CommandLine preference AUTO_ALL
+[2023-10-16 12:04:55:0889] Last check for updates not expired, code: 120300
+[2023-10-16 12:04:55:0891] Using registered preference AUTO_ALL
+[2023-10-16 12:04:55:0891] Last check for updates not expired, code: 120300
+[2023-10-16 12:04:56:0107] ARM returns ERROR_SUCCESS
+[2023-10-16 12:04:56:0107] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-16 19:57:00:0631] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-16 19:57:01:0231] Too soon to check for arm update
+[2023-10-16 19:57:01:0306] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-16 19:57:01:0307] ProductName: Adobe Acrobat (64-bit)
+[2023-10-16 19:57:01:0307] ProductVersion: 23.006.20320
+[2023-10-16 19:57:01:0307] ProductUACPatching: enabled
+[2023-10-16 19:57:01:0473] Using registered preference AUTO_ALL
+[2023-10-16 19:57:01:0474] Last check for updates not expired, code: 120300
+[2023-10-16 19:57:01:0477] Using registered preference AUTO_ALL
+[2023-10-16 19:57:01:0477] Last check for updates not expired, code: 120300
+[2023-10-16 19:57:01:0710] ARM returns ERROR_SUCCESS
+[2023-10-16 19:57:01:0710] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-16 21:39:23:0375] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-16 21:39:23:0416] Too soon to check for arm update
+[2023-10-16 21:39:23:0425] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-16 21:39:23:0425] ProductName: Adobe Acrobat (64-bit)
+[2023-10-16 21:39:23:0425] ProductVersion: 23.006.20320
+[2023-10-16 21:39:23:0425] ProductUACPatching: enabled
+[2023-10-16 21:39:23:0462] Using registered preference AUTO_ALL
+[2023-10-16 21:39:23:0464] Last check for updates not expired, code: 120300
+[2023-10-16 21:39:23:0464] Using registered preference AUTO_ALL
+[2023-10-16 21:39:23:0464] Last check for updates not expired, code: 120300
+[2023-10-16 21:39:23:0668] ARM returns ERROR_SUCCESS
+[2023-10-16 21:39:23:0668] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-17 20:36:43:0156] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-17 20:36:43:0232] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-17 20:36:43:0232] ProductName: Adobe Acrobat (64-bit)
+[2023-10-17 20:36:43:0232] ProductVersion: 23.006.20320
+[2023-10-17 20:36:43:0232] ProductUACPatching: enabled
+[2023-10-17 20:36:43:0320] Using CommandLine preference AUTO_ALL
+[2023-10-17 20:36:43:0329] Last check for updates not expired, code: 120300
+[2023-10-17 20:36:43:0330] Using registered preference AUTO_ALL
+[2023-10-17 20:36:43:0330] Last check for updates not expired, code: 120300
+[2023-10-17 20:36:43:0337] ARM returns ERROR_SUCCESS
+[2023-10-17 20:36:43:0337] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-17 20:50:47:0713] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-17 20:50:47:0797] Too soon to check for arm update
+[2023-10-17 20:50:47:0850] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-17 20:50:47:0850] ProductName: Adobe Acrobat (64-bit)
+[2023-10-17 20:50:47:0850] ProductVersion: 23.006.20320
+[2023-10-17 20:50:47:0850] ProductUACPatching: enabled
+[2023-10-17 20:50:47:0940] Using registered preference AUTO_ALL
+[2023-10-17 20:50:47:0941] Last check for updates not expired, code: 120300
+[2023-10-17 20:50:47:0943] Using registered preference AUTO_ALL
+[2023-10-17 20:50:47:0943] Last check for updates not expired, code: 120300
+[2023-10-17 20:50:48:0153] ARM returns ERROR_SUCCESS
+[2023-10-17 20:50:48:0154] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-18 13:49:58:0175] Adobe ARM 1.824.460.1052 logging started.
+[2023-10-18 13:50:32:0228] WriteSharedMemory(): succeeded. mapping obj name: Global\{E8F34725-3471-4506-B28B-47145817B1AE}_1349914885thsnYaViMRAeBoda
+[2023-10-18 13:50:33:0762] ARM returns ERROR_SUCCESS
+[2023-10-18 13:50:33:0762] Adobe ARM 1.824.460.1052 logging finished.
+
+
+
+[2023-10-18 22:29:54:0374] Adobe ARM 1.824.460.1053 logging started.
+[2023-10-18 22:29:54:0377] Invalid ProductVersion in Session
+[2023-10-18 22:29:54:0378] ProductName: Adobe Acrobat (64-bit)
+[2023-10-18 22:29:54:0416] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-18 22:29:54:0416] ProductName: Adobe Acrobat (64-bit)
+[2023-10-18 22:29:54:0416] ProductVersion: 23.006.20320
+[2023-10-18 22:29:54:0416] ProductUACPatching: enabled
+[2023-10-18 22:29:59:0146] Using CommandLine preference AUTO_ALL
+[2023-10-18 22:30:03:0448] ARMDownloader::BITS Error: Battery Saver mode is preventing the job from transferring. The transfer will resume when the system exits Battery Saver mode or reconnects to A/C power. If this job represents foreground work that should proceed even in Battery Saver mode, use priority BG_JOB_PRIORITY_FOREGROUND.
+[2023-10-18 22:30:03:0448] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-18 22:30:35:0826] ARMDownloader::BITS Error: Battery Saver mode is preventing the job from transferring. The transfer will resume when the system exits Battery Saver mode or reconnects to A/C power. If this job represents foreground work that should proceed even in Battery Saver mode, use priority BG_JOB_PRIORITY_FOREGROUND.
+[2023-10-18 22:30:35:0826] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-18 22:30:35:0934] all BITs attempts failed
+[2023-10-18 22:30:35:0934]  Error Code: -2145386495
+[2023-10-18 22:30:35:0934] ** Setting Error Condition: 140000
+[2023-10-18 22:30:35:0944] BITs failed, download manifest Job is not in Transferred state
+[2023-10-18 22:30:36:0634] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-18 22:30:36:0645] Using registered preference AUTO_ALL
+[2023-10-18 22:30:36:0667] ARMDownloader::BITS Error: Battery Saver mode is preventing the job from transferring. The transfer will resume when the system exits Battery Saver mode or reconnects to A/C power. If this job represents foreground work that should proceed even in Battery Saver mode, use priority BG_JOB_PRIORITY_FOREGROUND.
+[2023-10-18 22:30:36:0667] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-18 22:31:09:0083] ARMDownloader::BITS Error: Battery Saver mode is preventing the job from transferring. The transfer will resume when the system exits Battery Saver mode or reconnects to A/C power. If this job represents foreground work that should proceed even in Battery Saver mode, use priority BG_JOB_PRIORITY_FOREGROUND.
+[2023-10-18 22:31:09:0083] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-18 22:31:09:0193] all BITs attempts failed
+[2023-10-18 22:31:09:0193]  Error Code: -2145386495
+[2023-10-18 22:31:09:0193] ** Setting Error Condition: 140000
+[2023-10-18 22:31:09:0205] BITs failed, download manifest Job is not in Transferred state
+[2023-10-18 22:31:09:0339] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-18 22:31:09:0593] ARM returns ERROR_SUCCESS
+[2023-10-18 22:31:09:0593] Adobe ARM 1.824.460.1053 logging finished.
+
+
+
+[2023-10-19 20:27:06:0493] Adobe ARM 1.824.460.1053 logging started.
+[2023-10-19 20:27:06:0557] Too soon to check for arm update
+[2023-10-19 20:27:06:0596] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-19 20:27:06:0596] ProductName: Adobe Acrobat (64-bit)
+[2023-10-19 20:27:06:0596] ProductVersion: 23.006.20320
+[2023-10-19 20:27:06:0596] ProductUACPatching: enabled
+[2023-10-19 20:27:06:0659] Using registered preference AUTO_ALL
+[2023-10-19 20:37:06:0921] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-19 20:37:06:0921] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-19 20:37:39:0315] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-19 20:37:39:0315] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-19 20:37:39:0421] all BITs attempts failed
+[2023-10-19 20:37:39:0421]  Error Code: -2145386495
+[2023-10-19 20:37:39:0421] ** Setting Error Condition: 140000
+[2023-10-19 20:37:39:0426] BITs failed, download manifest Job is not in Transferred state
+[2023-10-19 20:37:39:0460] BB download failed: https://armmf.adobe.com/arm-manifests/win/AcrobatDCx64Manifest3.msi
+[2023-10-19 20:37:39:0472] Using registered preference AUTO_ALL
+[2023-10-19 20:47:39:0745] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-19 20:47:39:0745] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-19 20:48:12:0121] ARMDownloader::BITS Error: There are currently no active network connections. Background Intelligent Transfer Service (BITS) will try again when an adapter is connected.
+[2023-10-19 20:48:12:0121] ARMDownloader::BITS Error Context: The error occurred in the Background Intelligent Transfer Service (BITS) queue manager.
+[2023-10-19 20:48:12:0229] all BITs attempts failed
+[2023-10-19 20:48:12:0229]  Error Code: -2145386495
+[2023-10-19 20:48:12:0230] ** Setting Error Condition: 140000
+[2023-10-19 20:48:12:0236] BITs failed, download manifest Job is not in Transferred state
+[2023-10-19 20:48:12:0241] BB download failed: https://armmf.adobe.com/arm-manifests/win/ServicesUpdater/DC/AcroManifest3.msi
+[2023-10-19 20:48:12:0461] ARM returns ERROR_SUCCESS
+[2023-10-19 20:48:12:0461] Adobe ARM 1.824.460.1053 logging finished.
+
+
+
+[2023-10-20 11:24:56:0528] Adobe ARM 1.824.460.1053 logging started.
+[2023-10-20 11:24:56:0584] ProductCode: {AC76BA86-1033-FF00-7760-BC15014EA700}
+[2023-10-20 11:24:56:0584] ProductName: Adobe Acrobat (64-bit)
+[2023-10-20 11:24:56:0584] ProductVersion: 23.006.20320
+[2023-10-20 11:24:56:0584] ProductUACPatching: enabled
+[2023-10-20 11:24:56:0631] Using CommandLine preference AUTO_ALL
+[2023-10-20 11:25:10:0877] MDOV1615
+[2023-10-20 11:25:10:0879] New file object: AcroRdrDCx64Upd2300620360_MUI_incr.msp
+[2023-10-20 11:25:10:0879] MVF259
+[2023-10-20 11:27:26:0127] Newer version ARM update is not available
+[2023-10-20 11:27:27:0169] WriteSharedMemory(): succeeded. mapping obj name: Global\{E8F34725-3471-4506-B28B-47145817B1AE}_1349914885thsnYaViMRAeBoda
+[2023-10-20 11:28:24:0630] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-10-20 11:28:24:0630] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-10-20 11:28:24:0630] NtQueryInformationProcess failed, error: -1073741790
+[2023-10-20 11:28:24:0631] NtQueryInformationProcess failed, error: -1073741790
+[2023-10-20 11:28:24:0716] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-10-20 11:28:24:0864] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-10-20 11:28:25:0274] NtReadVirtualMemory read_peb failed, error: -1073741790
+[2023-10-20 11:28:25:0384] NtQueryInformationProcess failed, error: -1073741790
+[2023-10-20 11:28:25:0568] WriteSharedMemory(): succeeded. mapping obj name: Global\{E8F34725-3471-4506-B28B-47145817B1AE}_1349914885thsnYaViMRAeBoda
+[2023-10-20 11:28:26:0108] ARM returns ERROR_SUCCESS
+[2023-10-20 11:28:26:0108] Adobe ARM 1.824.460.1053 logging finished.
+
+
+
+[2023-10-20 11:28:26:0550] Adobe ARM 1.824.460.1053 logging started.
+[2023-10-20 11:28:26:0583] ARM returns ERROR_SUCCESS
+[2023-10-20 11:28:26:0583] Adobe ARM 1.824.460.1053 logging finished.

@@ -1,0 +1,31 @@
+[1018/131740.547:INFO:installer_main.cc(470)] Opera installer starting - version 103.0.4928.34 Stable
+[1018/131740.547:INFO:installer_main.cc(473)] Command line: "C:\Users\mahi\AppData\Local\Temp\.opera\DFC5A3910DFF\CUsersmahiAppDataLocalProgramsOpera\installing\installer.exe" --install --autoupdate --installfolder="C:\Users\mahi\AppData\Local\Programs\Opera" --silent --launchopera=0
+[1018/131740.548:INFO:installer_main.cc(492)] Install folder from command line: C:\Users\mahi\AppData\Local\Programs\Opera
+[1018/131740.548:INFO:installer_main.cc(495)] Uninstall:0
+[1018/131740.548:INFO:installer_main.cc(496)] Silent:1
+[1018/131740.548:INFO:installer_main.cc(497)] Run Immediately0
+[1018/131740.548:INFO:installer_main.cc(499)] Backend0
+[1018/131740.548:INFO:installer_main.cc(500)] Inside package1
+[1018/131740.548:INFO:installer_main.cc(501)] Autoupdate:1
+[1018/131740.549:INFO:resource_l10n_handler.cc(113)] Language not in the available languages list: 
+[1018/131740.549:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en-US
+[1018/131740.549:INFO:resource_l10n_handler.cc(162)] Retrying after adjustments: en-US
+[1018/131740.549:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en
+[1018/131740.996:INFO:settings_impl.cc(1323)] Install folder set: C:\Users\mahi\AppData\Local\Programs\Opera
+[1018/131740.998:INFO:settings_impl.cc(1378)] Operation: 2
+[1018/131740.998:INFO:wininet_impl.cc(337)] Starting download from https://features.opera-api2.com/api/v2/features?country=IR&language=en&uuid=f1b686c4-62f7-4da4-8bc9-378a3ccc90de&product=&channel=Stable&version=103.0.4928.34
+[1018/131741.001:INFO:pref_default_overrides_fetcher.cc(119)] Fetching default prefs overrides to C:\Users\mahi\AppData\Local\Temp\.opera\DFC5A3910DFF\CUsersmahiAppDataLocalProgramsOpera\installing\pref_default_overrides with tracking data NGQwNDE1YzMxM2JjOWRiN2YzMjZmZDhjYWRmZDljNGFiODMwYTRjMDZhYTBmMDk4ZTdlNzhjZGRiMjdhNzVhZDp7ImNvdW50cnkiOiJJUiIsImh0dHBfcmVmZXJyZXIiOiJodHRwczovL3d3dy5vcGVyYS5jb20vIiwiaW5zdGFsbGVyX25hbWUiOiJPcGVyYVNldHVwLmV4ZSIsInByb2R1Y3QiOiJvcGVyYSIsInF1ZXJ5IjoiL29wZXJhL3N0YWJsZS93aW5kb3dzP3V0bV90cnlhZ2Fpbj15ZXMmdXRtX3NvdXJjZT1iaW5nJnV0bV9tZWRpdW09b3NlJnV0bV9jYW1wYWlnbj0obm9uZSkmaHR0cF9yZWZlcnJlcj1odHRwcyUzQSUyRiUyRnd3dy5iaW5nLmNvbSUyRiZ1dG1fc2l0ZT1vcGVyYV9jb20mJnV0bV9sYXN0cGFnZT1vcGVyYS5jb20vJmRsX3Rva2VuPTIxMDQ1OTkxIiwidGltZXN0YW1wIjoiMTY2MzgzMjI0Ni4xODE3IiwidXNlcmFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNS4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDUuMC4xMzQzLjQyIiwidXRtIjp7ImNhbXBhaWduIjoiKG5vbmUpIiwibGFzdHBhZ2UiOiJvcGVyYS5jb20vIiwibWVkaXVtIjoib3NlIiwic2l0ZSI6Im9wZXJhX2NvbSIsInNvdXJjZSI6ImJpbmciLCJ0cnlhZ2FpbiI6InllcyJ9LCJ1dWlkIjoiMDA1YzkyOTQtOTc0NC00N2Q4LWEyMDEtNzllOTY2ZDdjNTNkIn0=
+[1018/131741.001:INFO:main_process_installer_runner_impl.cc(68)] Beginning installation
+[1018/131741.001:INFO:main_process_installer_runner_impl.cc(191)] launching installer backend: "C:\Users\mahi\AppData\Local\Temp\.opera\DFC5A3910DFF\CUsersmahiAppDataLocalProgramsOpera\installing\installer.exe" --backend --install --import-browser-data=0 --enable-stats=1 --enable-installer-stats=1 --consent-given=0 --general-interests=0 --general-location=0 --personalized-content=0 --personalized-ads=0 --launchopera=0 --installfolder="C:\Users\mahi\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --pintotaskbar=0 --pintostartmenu=0 --run-at-startup=1 --show-intro-overlay --server-tracking-data=server_tracking_data --initial-pid=27376 --package-dir="C:\Users\mahi\AppData\Local\Temp\.opera\DFC5A3910DFF\CUsersmahiAppDataLocalProgramsOpera\installing" --inside-package --session-guid=4c44def0-dd1a-47d6-93ac-64b7b0807a09 --autoupdate --silent --wait-for-package --initial-proc-handle=5406000000000000
+[1018/131741.001:INFO:wininet_impl.cc(337)] Starting download from https://autoupdate.geo.opera.com/api/prefs/?product=Opera&version=103.0.4928.34
+[1018/131741.774:INFO:wininet_impl.cc(610)] Initial request completion
+[1018/131741.774:INFO:wininet_impl.cc(634)] Could not get Content-Length from response: Error (0x13D) while retrieving error. (0x2F76)
+[1018/131741.792:INFO:wininet_impl.cc(884)] Download completed
+[1018/131741.793:INFO:pref_default_overrides_fetcher.cc(66)] Default prefs overrides fetched successfully
+[1018/131741.793:INFO:main_process_installer_runner_impl.cc(263)] Informing the installer backend that the package is ready
+[1018/131741.956:INFO:wininet_impl.cc(610)] Initial request completion
+[1018/131741.956:INFO:wininet_impl.cc(884)] Download completed
+[1018/131746.877:INFO:installer_controller.cc(133)] Terminating the controller
+[1018/131746.877:INFO:wininet_impl.cc(754)] Stopping the download
+[1018/131746.877:INFO:main_process_installer_runner_impl.cc(233)] Stopping installer backend (if running)
+[1018/131746.879:INFO:main_process_installer_runner_impl.cc(233)] Stopping installer backend (if running)

@@ -1,0 +1,6 @@
+SessionID=dbb93ca4-79a9-451b-8bec-e86b86532dbd.1697445291960 Timestamp=2023-10-16T23:46:30:243+0330 ThreadID=21756 Component=ngl-lib_ NglIngestManager Description="ProcessSpecialEventBeforeClose : Ingest - Checking & Processing for Special Events"
+SessionID=dbb93ca4-79a9-451b-8bec-e86b86532dbd.1697445291960 Timestamp=2023-10-16T23:46:30:243+0330 ThreadID=21756 Component=ngl-lib_ NglIngestManager Description="ProcessNglIngestEvents : Ingest Process - Finished"
+SessionID=dbb93ca4-79a9-451b-8bec-e86b86532dbd.1697445291960 Timestamp=2023-10-16T23:46:30:244+0330 ThreadID=17800 Component=ngl-lib_ NglIngestManager Description="CleanEventQ : Cleared Ingest Event"
+SessionID=dbb93ca4-79a9-451b-8bec-e86b86532dbd.1697445291960 Timestamp=2023-10-16T23:46:30:244+0330 ThreadID=17800 Component=ngl-lib_ NglIngestManager Description="Shutdown :  Ingest manager shutdown."
+SessionID=dbb93ca4-79a9-451b-8bec-e86b86532dbd.1697445291960 Timestamp=2023-10-16T23:46:30:244+0330 ThreadID=17800 Component=ngl-lib_HttpRequest Description="CancelAllRequests Invoked"
+SessionID=dbb93ca4-79a9-451b-8bec-e86b86532dbd.1697445291960 Timestamp=2023-10-16T23:46:30:244+0330 ThreadID=17800 Component=ngl-lib_NglController Description="-------- Terminating session logs --------"

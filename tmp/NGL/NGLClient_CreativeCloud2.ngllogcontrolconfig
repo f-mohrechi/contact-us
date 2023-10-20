@@ -1,0 +1,8 @@
+{
+	"level" : "INFO",
+	"maxFileUploadSize" : 1000,
+	"minFileUploadSize" : 500,
+	"uploadInterval" : 604800000,
+	"uploadOnError" : false,
+	"uploadOnSessionStart" : false
+}

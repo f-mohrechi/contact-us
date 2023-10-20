@@ -1,0 +1,257 @@
+﻿10/12/23 11:15:11:831 | [INFO] |  |  |  | OOBELib |  |  | 9904 | __OOBELIB_LOG_FILE__
+10/12/23 11:15:11:832 | [INFO] |  |  |  | OOBELib |  |  | 9904 | *************OOBELib Session Starts*************
+10/12/23 11:15:11:832 | [INFO] |  |  |  | OOBELib |  |  | 9904 | Version 10.0.0.294,7.0
+
+10/12/23 11:15:11:832 | [INFO] |  |  |  | PCDService |  |  | 9904 | PCD Service in non-threaded mode
+10/12/23 11:15:11:848 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/12/23 11:15:11:881 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | (re)load Local Dispatch Table status-[0].
+10/12/23 11:15:11:893 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Scope : [2]
+10/12/23 11:15:11:908 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Setting scope to GM
+10/12/23 11:15:12:362 | [ERROR] |  |  |  | OPMWrapper |  |  | 9904 | Failed in getting value for key in OPMGetValueForKey
+10/12/23 11:15:12:363 | [INFO] |  |  |  | OOBELib |  |  | 9904 | Failed to get Proxy username in OPM DB
+10/12/23 11:15:12:363 | [INFO] |  |  |  | AXFBLicensing |  |  | 9904 | Failed to load axlibv7.dll, trying again
+10/12/23 11:15:12:364 | [INFO] |  |  |  | AXFBLicensing |  |  | 9904 | Failed to load axlibv7.dll, trying again with axlib in ACF
+10/12/23 11:15:12:378 | [INFO] |  |  |  | AXFBLicensing |  |  | 9904 | All function pointers successfully retrieved
+10/12/23 11:15:12:378 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+10/12/23 11:15:12:378 | [ERROR] |  |  |  | SLCoreService |  |  | 9904 | user based licensing: 0
+10/12/23 11:15:12:379 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | Service construction took 0.5 ms and succeed.
+10/12/23 11:15:12:379 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 9904 | Returning SLCoreServiceWrapper Initialize, Ref Count 1
+10/12/23 11:15:12:398 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 9904 | Creating Log Instance of type 0
+10/12/23 11:15:12:404 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 9904 | adobe::dlc::analytics::DatabaseHandler::createUpdateDb Completed
+10/12/23 11:15:12:420 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/12/23 11:15:12:436 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | (re)load Local Dispatch Table status-[0].
+10/12/23 11:15:12:450 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Scope : [2]
+10/12/23 11:15:12:471 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Setting scope to GM
+10/12/23 11:15:12:489 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | EndPoint requested: [IngestAnalytics]
+10/12/23 11:15:12:506 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Length of the URL: [28]
+10/12/23 11:15:12:521 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Returning from getEndpointAddr: [0]
+10/12/23 11:15:12:538 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | EndPoint requested: [IngestAnalytics]
+10/12/23 11:15:12:557 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Length of the URL: [28]
+10/12/23 11:15:12:573 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | URL found [https://cc-api-data.adobe.io]
+10/12/23 11:15:12:588 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Returning from getEndpointAddr: [0]
+10/12/23 11:15:12:588 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 9904 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/12/23 11:15:12:588 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | SLCoreServiceGetMachineIDHash : waiting for semaphore signal
+10/12/23 11:15:12:588 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | SLCoreServiceGetMachineIDHash : semaphore acquired
+10/12/23 11:15:12:615 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | SLCoreServiceGetMachineIDHash : semaphore signalled
+10/12/23 11:15:13:109 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/12/23 11:15:13:140 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | (re)load Local Dispatch Table status-[0].
+10/12/23 11:15:13:167 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Scope : [2]
+10/12/23 11:15:13:196 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Setting scope to GM
+10/12/23 11:15:13:217 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | EndPoint requested: [IdentityManagement]
+10/12/23 11:15:13:237 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Length of the URL: [33]
+10/12/23 11:15:13:260 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Returning from getEndpointAddr: [0]
+10/12/23 11:15:13:283 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | EndPoint requested: [IdentityManagement]
+10/12/23 11:15:13:306 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Length of the URL: [33]
+10/12/23 11:15:13:328 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | URL found [https://ims-prod06.adobelogin.com]
+10/12/23 11:15:13:366 | [INFO] |  |  |  | DispatchClientLib |  |  | 9904 | Returning from getEndpointAddr: [0]
+10/12/23 11:15:13:378 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 9904 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/12/23 11:15:13:379 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | SLCoreServiceGetMachineSignature : waiting for semaphore signal
+10/12/23 11:15:13:379 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | SLCoreServiceGetMachineSignature : semaphore acquired
+10/12/23 11:15:13:379 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | SLCoreServiceGetMachineSignature : semaphore signalled
+10/12/23 11:15:13:379 | [INFO] |  |  |  | OOBELib |  |  | 9904 | GetLegacySeatID : MachineID successfully retrieved
+10/12/23 11:15:13:443 | [INFO] |  |  |  | OOBELib |  |  | 9904 | GetSeatID : MachineID successfully retrieved
+10/12/23 11:15:13:473 | [INFO] |  |  |  | OOBELib |  |  | 9904 | OOBELibImpl::CommitPCD STARTED
+10/12/23 11:15:13:510 | [DEBUG] |  |  |  | ServiceLoader |  |  | 9904 | looking for library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/12/23 11:15:13:510 | [DEBUG] |  |  |  | ServiceLoader |  |  | 9904 | Found library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/12/23 11:15:13:525 | [INFO] |  |  |  | OOBELib |  |  | 9904 | SN not validated in this session
+10/12/23 11:15:13:525 | [INFO] |  |  |  | OOBELib |  |  | 9904 | No SN to be remembered
+10/12/23 11:15:13:525 | [INFO] |  |  |  | OOBELib |  |  | 9904 | User hasn't registered
+10/12/23 11:15:13:526 | [INFO] |  |  |  | OOBELib |  |  | 9904 | OOBELibImpl::CommitPCD ENDED
+10/12/23 11:15:13:526 | [INFO] |  |  |  | OOBELib |  |  | 9904 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+10/12/23 11:15:13:526 | [ERROR] |  |  |  | AnalyticsClientLib |  |  | 9904 | Closing Database handler session
+10/12/23 11:15:13:528 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+10/12/23 11:15:13:528 | [INFO] |  |  |  | SLCoreService |  |  | 9904 | Service destruction took 0.1 ms and succeed.
+10/12/23 11:15:13:528 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 9904 | Returning SLCoreServiceWrapper Release, Ref Count 0
+10/12/23 11:15:13:528 | [INFO] |  |  |  | OOBELib |  |  | 9904 | *************OOBELib Session Ends*************
+10/12/23 11:30:30:934 | [INFO] |  |  |  | OOBELib |  |  | 8124 | *************OOBELib Session Starts*************
+10/12/23 11:30:30:935 | [INFO] |  |  |  | OOBELib |  |  | 8124 | Version 10.0.0.294,7.0
+
+10/12/23 11:30:30:935 | [INFO] |  |  |  | PCDService |  |  | 8124 | PCD Service in non-threaded mode
+10/12/23 11:30:30:950 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/12/23 11:30:30:969 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | (re)load Local Dispatch Table status-[0].
+10/12/23 11:30:30:986 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Scope : [2]
+10/12/23 11:30:31:003 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Setting scope to GM
+10/12/23 11:30:31:520 | [ERROR] |  |  |  | OPMWrapper |  |  | 8124 | Failed in getting value for key in OPMGetValueForKey
+10/12/23 11:30:31:520 | [INFO] |  |  |  | OOBELib |  |  | 8124 | Failed to get Proxy username in OPM DB
+10/12/23 11:30:31:520 | [INFO] |  |  |  | AXFBLicensing |  |  | 8124 | Failed to load axlibv7.dll, trying again
+10/12/23 11:30:31:520 | [INFO] |  |  |  | AXFBLicensing |  |  | 8124 | Failed to load axlibv7.dll, trying again with axlib in ACF
+10/12/23 11:30:31:522 | [INFO] |  |  |  | AXFBLicensing |  |  | 8124 | All function pointers successfully retrieved
+10/12/23 11:30:31:522 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+10/12/23 11:30:31:523 | [ERROR] |  |  |  | SLCoreService |  |  | 8124 | user based licensing: 0
+10/12/23 11:30:31:523 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | Service construction took 0.2 ms and succeed.
+10/12/23 11:30:31:523 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 8124 | Returning SLCoreServiceWrapper Initialize, Ref Count 1
+10/12/23 11:30:31:545 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 8124 | Creating Log Instance of type 0
+10/12/23 11:30:31:547 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 8124 | adobe::dlc::analytics::DatabaseHandler::createUpdateDb Completed
+10/12/23 11:30:31:570 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/12/23 11:30:31:586 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | (re)load Local Dispatch Table status-[0].
+10/12/23 11:30:31:603 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Scope : [2]
+10/12/23 11:30:31:617 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Setting scope to GM
+10/12/23 11:30:31:637 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | EndPoint requested: [IngestAnalytics]
+10/12/23 11:30:31:655 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Length of the URL: [28]
+10/12/23 11:30:31:673 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Returning from getEndpointAddr: [0]
+10/12/23 11:30:31:703 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | EndPoint requested: [IngestAnalytics]
+10/12/23 11:30:31:729 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Length of the URL: [28]
+10/12/23 11:30:31:753 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | URL found [https://cc-api-data.adobe.io]
+10/12/23 11:30:31:780 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Returning from getEndpointAddr: [0]
+10/12/23 11:30:31:780 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 8124 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/12/23 11:30:31:780 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | SLCoreServiceGetMachineIDHash : waiting for semaphore signal
+10/12/23 11:30:31:780 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | SLCoreServiceGetMachineIDHash : semaphore acquired
+10/12/23 11:30:31:811 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | SLCoreServiceGetMachineIDHash : semaphore signalled
+10/12/23 11:30:32:321 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/12/23 11:30:32:350 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | (re)load Local Dispatch Table status-[0].
+10/12/23 11:30:32:378 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Scope : [2]
+10/12/23 11:30:32:404 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Setting scope to GM
+10/12/23 11:30:32:431 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | EndPoint requested: [IdentityManagement]
+10/12/23 11:30:32:457 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Length of the URL: [33]
+10/12/23 11:30:32:475 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Returning from getEndpointAddr: [0]
+10/12/23 11:30:32:495 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | EndPoint requested: [IdentityManagement]
+10/12/23 11:30:32:521 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Length of the URL: [33]
+10/12/23 11:30:32:548 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | URL found [https://ims-prod06.adobelogin.com]
+10/12/23 11:30:32:571 | [INFO] |  |  |  | DispatchClientLib |  |  | 8124 | Returning from getEndpointAddr: [0]
+10/12/23 11:30:32:574 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 8124 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/12/23 11:30:32:574 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | SLCoreServiceGetMachineSignature : waiting for semaphore signal
+10/12/23 11:30:32:574 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | SLCoreServiceGetMachineSignature : semaphore acquired
+10/12/23 11:30:32:574 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | SLCoreServiceGetMachineSignature : semaphore signalled
+10/12/23 11:30:32:574 | [INFO] |  |  |  | OOBELib |  |  | 8124 | GetLegacySeatID : MachineID successfully retrieved
+10/12/23 11:30:32:605 | [INFO] |  |  |  | OOBELib |  |  | 8124 | GetSeatID : MachineID successfully retrieved
+10/12/23 11:30:32:632 | [INFO] |  |  |  | OOBELib |  |  | 8124 | OOBELibImpl::CommitPCD STARTED
+10/12/23 11:30:32:668 | [DEBUG] |  |  |  | ServiceLoader |  |  | 8124 | looking for library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/12/23 11:30:32:668 | [DEBUG] |  |  |  | ServiceLoader |  |  | 8124 | Found library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/12/23 11:30:32:671 | [INFO] |  |  |  | OOBELib |  |  | 8124 | SN not validated in this session
+10/12/23 11:30:32:671 | [INFO] |  |  |  | OOBELib |  |  | 8124 | No SN to be remembered
+10/12/23 11:30:32:671 | [INFO] |  |  |  | OOBELib |  |  | 8124 | User hasn't registered
+10/12/23 11:30:32:671 | [INFO] |  |  |  | OOBELib |  |  | 8124 | OOBELibImpl::CommitPCD ENDED
+10/12/23 11:30:32:671 | [INFO] |  |  |  | OOBELib |  |  | 8124 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+10/12/23 11:30:32:671 | [ERROR] |  |  |  | AnalyticsClientLib |  |  | 8124 | Closing Database handler session
+10/12/23 11:30:32:672 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+10/12/23 11:30:32:672 | [INFO] |  |  |  | SLCoreService |  |  | 8124 | Service destruction took 0.1 ms and succeed.
+10/12/23 11:30:32:672 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 8124 | Returning SLCoreServiceWrapper Release, Ref Count 0
+10/12/23 11:30:32:672 | [INFO] |  |  |  | OOBELib |  |  | 8124 | *************OOBELib Session Ends*************
+10/15/23 10:30:11:770 | [INFO] |  |  |  | OOBELib |  |  | 27644 | *************OOBELib Session Starts*************
+10/15/23 10:30:11:771 | [INFO] |  |  |  | OOBELib |  |  | 27644 | Version 10.0.0.294,7.0
+
+10/15/23 10:30:11:771 | [INFO] |  |  |  | PCDService |  |  | 27644 | PCD Service in non-threaded mode
+10/15/23 10:30:11:804 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/15/23 10:30:11:867 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | (re)load Local Dispatch Table status-[0].
+10/15/23 10:30:11:906 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Scope : [2]
+10/15/23 10:30:11:944 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Setting scope to GM
+10/15/23 10:30:13:008 | [ERROR] |  |  |  | OPMWrapper |  |  | 27644 | Failed in getting value for key in OPMGetValueForKey
+10/15/23 10:30:13:008 | [INFO] |  |  |  | OOBELib |  |  | 27644 | Failed to get Proxy username in OPM DB
+10/15/23 10:30:13:009 | [INFO] |  |  |  | AXFBLicensing |  |  | 27644 | Failed to load axlibv7.dll, trying again
+10/15/23 10:30:13:010 | [INFO] |  |  |  | AXFBLicensing |  |  | 27644 | Failed to load axlibv7.dll, trying again with axlib in ACF
+10/15/23 10:30:13:027 | [INFO] |  |  |  | AXFBLicensing |  |  | 27644 | All function pointers successfully retrieved
+10/15/23 10:30:13:027 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+10/15/23 10:30:13:028 | [ERROR] |  |  |  | SLCoreService |  |  | 27644 | user based licensing: 0
+10/15/23 10:30:13:029 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | Service construction took 1.1 ms and succeed.
+10/15/23 10:30:13:029 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 27644 | Returning SLCoreServiceWrapper Initialize, Ref Count 1
+10/15/23 10:30:13:072 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 27644 | Creating Log Instance of type 0
+10/15/23 10:30:13:081 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 27644 | adobe::dlc::analytics::DatabaseHandler::createUpdateDb Completed
+10/15/23 10:30:13:113 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/15/23 10:30:13:159 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | (re)load Local Dispatch Table status-[0].
+10/15/23 10:30:13:190 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Scope : [2]
+10/15/23 10:30:13:228 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Setting scope to GM
+10/15/23 10:30:13:275 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | EndPoint requested: [IngestAnalytics]
+10/15/23 10:30:13:320 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Length of the URL: [28]
+10/15/23 10:30:13:362 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Returning from getEndpointAddr: [0]
+10/15/23 10:30:13:418 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | EndPoint requested: [IngestAnalytics]
+10/15/23 10:30:13:469 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Length of the URL: [28]
+10/15/23 10:30:13:527 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | URL found [https://cc-api-data.adobe.io]
+10/15/23 10:30:13:587 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Returning from getEndpointAddr: [0]
+10/15/23 10:30:13:587 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 27644 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/15/23 10:30:13:587 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | SLCoreServiceGetMachineIDHash : waiting for semaphore signal
+10/15/23 10:30:13:587 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | SLCoreServiceGetMachineIDHash : semaphore acquired
+10/15/23 10:30:13:673 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | SLCoreServiceGetMachineIDHash : semaphore signalled
+10/15/23 10:30:14:576 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/15/23 10:30:14:609 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | (re)load Local Dispatch Table status-[0].
+10/15/23 10:30:14:639 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Scope : [2]
+10/15/23 10:30:14:667 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Setting scope to GM
+10/15/23 10:30:14:699 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | EndPoint requested: [IdentityManagement]
+10/15/23 10:30:14:731 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Length of the URL: [33]
+10/15/23 10:30:14:766 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Returning from getEndpointAddr: [0]
+10/15/23 10:30:14:798 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | EndPoint requested: [IdentityManagement]
+10/15/23 10:30:14:831 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Length of the URL: [33]
+10/15/23 10:30:14:858 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | URL found [https://ims-prod06.adobelogin.com]
+10/15/23 10:30:14:884 | [INFO] |  |  |  | DispatchClientLib |  |  | 27644 | Returning from getEndpointAddr: [0]
+10/15/23 10:30:14:892 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 27644 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/15/23 10:30:14:893 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | SLCoreServiceGetMachineSignature : waiting for semaphore signal
+10/15/23 10:30:14:893 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | SLCoreServiceGetMachineSignature : semaphore acquired
+10/15/23 10:30:14:893 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | SLCoreServiceGetMachineSignature : semaphore signalled
+10/15/23 10:30:14:893 | [INFO] |  |  |  | OOBELib |  |  | 27644 | GetLegacySeatID : MachineID successfully retrieved
+10/15/23 10:30:14:959 | [INFO] |  |  |  | OOBELib |  |  | 27644 | GetSeatID : MachineID successfully retrieved
+10/15/23 10:30:15:003 | [INFO] |  |  |  | OOBELib |  |  | 27644 | OOBELibImpl::CommitPCD STARTED
+10/15/23 10:30:15:068 | [DEBUG] |  |  |  | ServiceLoader |  |  | 27644 | looking for library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/15/23 10:30:15:069 | [DEBUG] |  |  |  | ServiceLoader |  |  | 27644 | Found library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/15/23 10:30:15:093 | [INFO] |  |  |  | OOBELib |  |  | 27644 | SN not validated in this session
+10/15/23 10:30:15:094 | [INFO] |  |  |  | OOBELib |  |  | 27644 | No SN to be remembered
+10/15/23 10:30:15:094 | [INFO] |  |  |  | OOBELib |  |  | 27644 | User hasn't registered
+10/15/23 10:30:15:094 | [INFO] |  |  |  | OOBELib |  |  | 27644 | OOBELibImpl::CommitPCD ENDED
+10/15/23 10:30:15:095 | [INFO] |  |  |  | OOBELib |  |  | 27644 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+10/15/23 10:30:15:095 | [ERROR] |  |  |  | AnalyticsClientLib |  |  | 27644 | Closing Database handler session
+10/15/23 10:30:15:098 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+10/15/23 10:30:15:098 | [INFO] |  |  |  | SLCoreService |  |  | 27644 | Service destruction took 0.3 ms and succeed.
+10/15/23 10:30:15:098 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 27644 | Returning SLCoreServiceWrapper Release, Ref Count 0
+10/15/23 10:30:15:098 | [INFO] |  |  |  | OOBELib |  |  | 27644 | *************OOBELib Session Ends*************
+10/16/23 10:27:01:362 | [INFO] |  |  |  | OOBELib |  |  | 1076 | *************OOBELib Session Starts*************
+10/16/23 10:27:01:363 | [INFO] |  |  |  | OOBELib |  |  | 1076 | Version 10.0.0.294,7.0
+
+10/16/23 10:27:01:363 | [INFO] |  |  |  | PCDService |  |  | 1076 | PCD Service in non-threaded mode
+10/16/23 10:27:01:376 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/16/23 10:27:01:397 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | (re)load Local Dispatch Table status-[0].
+10/16/23 10:27:01:409 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Scope : [2]
+10/16/23 10:27:01:421 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Setting scope to GM
+10/16/23 10:27:01:791 | [ERROR] |  |  |  | OPMWrapper |  |  | 1076 | Failed in getting value for key in OPMGetValueForKey
+10/16/23 10:27:01:791 | [INFO] |  |  |  | OOBELib |  |  | 1076 | Failed to get Proxy username in OPM DB
+10/16/23 10:27:01:792 | [INFO] |  |  |  | AXFBLicensing |  |  | 1076 | Failed to load axlibv7.dll, trying again
+10/16/23 10:27:01:792 | [INFO] |  |  |  | AXFBLicensing |  |  | 1076 | Failed to load axlibv7.dll, trying again with axlib in ACF
+10/16/23 10:27:01:794 | [INFO] |  |  |  | AXFBLicensing |  |  | 1076 | All function pointers successfully retrieved
+10/16/23 10:27:01:794 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | Starting up SLCore 2.0 Release (build 2.0.1.360321).
+10/16/23 10:27:01:794 | [ERROR] |  |  |  | SLCoreService |  |  | 1076 | user based licensing: 0
+10/16/23 10:27:01:794 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | Service construction took 0.2 ms and succeed.
+10/16/23 10:27:01:794 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 1076 | Returning SLCoreServiceWrapper Initialize, Ref Count 1
+10/16/23 10:27:01:806 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 1076 | Creating Log Instance of type 0
+10/16/23 10:27:01:816 | [INFO] |  |  |  | AnalyticsClientLib |  |  | 1076 | adobe::dlc::analytics::DatabaseHandler::createUpdateDb Completed
+10/16/23 10:27:01:828 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/16/23 10:27:01:841 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | (re)load Local Dispatch Table status-[0].
+10/16/23 10:27:01:853 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Scope : [2]
+10/16/23 10:27:01:864 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Setting scope to GM
+10/16/23 10:27:01:876 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | EndPoint requested: [IngestAnalytics]
+10/16/23 10:27:01:887 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Length of the URL: [28]
+10/16/23 10:27:01:898 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Returning from getEndpointAddr: [0]
+10/16/23 10:27:01:910 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | EndPoint requested: [IngestAnalytics]
+10/16/23 10:27:01:923 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Length of the URL: [28]
+10/16/23 10:27:01:934 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | URL found [https://cc-api-data.adobe.io]
+10/16/23 10:27:01:946 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Returning from getEndpointAddr: [0]
+10/16/23 10:27:01:946 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 1076 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/16/23 10:27:01:946 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | SLCoreServiceGetMachineIDHash : waiting for semaphore signal
+10/16/23 10:27:01:946 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | SLCoreServiceGetMachineIDHash : semaphore acquired
+10/16/23 10:27:01:962 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | SLCoreServiceGetMachineIDHash : semaphore signalled
+10/16/23 10:27:02:330 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Dispatch table loaded from path: C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\dispatchtable.xml 
+10/16/23 10:27:02:343 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | (re)load Local Dispatch Table status-[0].
+10/16/23 10:27:02:355 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Scope : [2]
+10/16/23 10:27:02:366 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Setting scope to GM
+10/16/23 10:27:02:377 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | EndPoint requested: [IdentityManagement]
+10/16/23 10:27:02:388 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Length of the URL: [33]
+10/16/23 10:27:02:400 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Returning from getEndpointAddr: [0]
+10/16/23 10:27:02:412 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | EndPoint requested: [IdentityManagement]
+10/16/23 10:27:02:422 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Length of the URL: [33]
+10/16/23 10:27:02:433 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | URL found [https://ims-prod06.adobelogin.com]
+10/16/23 10:27:02:445 | [INFO] |  |  |  | DispatchClientLib |  |  | 1076 | Returning from getEndpointAddr: [0]
+10/16/23 10:27:02:457 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 1076 | Returning SLCoreServiceWrapper GetInstance, Ref Count 1
+10/16/23 10:27:02:457 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | SLCoreServiceGetMachineSignature : waiting for semaphore signal
+10/16/23 10:27:02:457 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | SLCoreServiceGetMachineSignature : semaphore acquired
+10/16/23 10:27:02:457 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | SLCoreServiceGetMachineSignature : semaphore signalled
+10/16/23 10:27:02:457 | [INFO] |  |  |  | OOBELib |  |  | 1076 | GetLegacySeatID : MachineID successfully retrieved
+10/16/23 10:27:02:489 | [INFO] |  |  |  | OOBELib |  |  | 1076 | GetSeatID : MachineID successfully retrieved
+10/16/23 10:27:02:506 | [INFO] |  |  |  | OOBELib |  |  | 1076 | OOBELibImpl::CommitPCD STARTED
+10/16/23 10:27:02:531 | [DEBUG] |  |  |  | ServiceLoader |  |  | 1076 | looking for library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/16/23 10:27:02:531 | [DEBUG] |  |  |  | ServiceLoader |  |  | 1076 | Found library C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_upgrade.dll
+10/16/23 10:27:02:543 | [INFO] |  |  |  | OOBELib |  |  | 1076 | SN not validated in this session
+10/16/23 10:27:02:543 | [INFO] |  |  |  | OOBELib |  |  | 1076 | No SN to be remembered
+10/16/23 10:27:02:543 | [INFO] |  |  |  | OOBELib |  |  | 1076 | User hasn't registered
+10/16/23 10:27:02:543 | [INFO] |  |  |  | OOBELib |  |  | 1076 | OOBELibImpl::CommitPCD ENDED
+10/16/23 10:27:02:544 | [INFO] |  |  |  | OOBELib |  |  | 1076 | Closing AdobeIALClient 1.0 Release (build 1.0.6.3) session.
+10/16/23 10:27:02:544 | [ERROR] |  |  |  | AnalyticsClientLib |  |  | 1076 | Closing Database handler session
+10/16/23 10:27:02:546 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | Shutting down SLCore 2.0 Release (build 2.0.1.360321).
+10/16/23 10:27:02:546 | [INFO] |  |  |  | SLCoreService |  |  | 1076 | Service destruction took 0.0 ms and succeed.
+10/16/23 10:27:02:546 | [INFO] |  |  |  | SLCoreServiceWrapper |  |  | 1076 | Returning SLCoreServiceWrapper Release, Ref Count 0
+10/16/23 10:27:02:546 | [INFO] |  |  |  | OOBELib |  |  | 1076 | *************OOBELib Session Ends*************

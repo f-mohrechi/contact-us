@@ -1,0 +1,20 @@
+{
+  "geoidMaps": {
+    "eu": "https://europe.smartscreen.microsoft.com/",
+    "ffl4": "https://unitedstates1.ss.wd.microsoft.us/",
+    "ffl4mod": "https://unitedstates4.ss.wd.microsoft.us/",
+    "ffl5": "https://unitedstates2.ss.wd.microsoft.us/",
+    "test": "https://eu-9.smartscreen.microsoft.com/",
+    "uk": "https://unitedkingdom.smartscreen.microsoft.com/",
+    "us": "https://unitedstates.smartscreen.microsoft.com/",
+    "au": "https://australia.smartscreen.microsoft.com/",
+    "gw_eu": "https://europe.smartscreen.microsoft.com/",
+    "gw_ffl4": "https://unitedstates1.ss.wd.microsoft.us/",
+    "gw_ffl4mod": "https://unitedstates4.ss.wd.microsoft.us/",
+    "gw_ffl5": "https://unitedstates2.ss.wd.microsoft.us/",
+    "gw_test": "https://eu-9.smartscreen.microsoft.com/",
+    "gw_uk": "https://unitedkingdom.smartscreen.microsoft.com/",
+    "gw_us": "https://unitedstates.smartscreen.microsoft.com/",
+    "gw_au": "https://australia.smartscreen.microsoft.com/"
+  }
+}

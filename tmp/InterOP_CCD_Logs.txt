@@ -1,0 +1,17 @@
+EXE execution sequence started at Mon Oct 16 10:26:37 2023
+
+InputXML read successfully
+SAP Code verified, is APRO
+Version verified, is >=21.0
+Platform verified, is win64
+EXE has been launched in 'getAppStatus' mode
+Fetching Product Upgrade code
+Fetching Product Upgrade code
+GetInstalledProduct called
+Installed product is Acrobat product
+Major version : 23
+Installed product is Adobe Acrobat
+The product is installed, Action : Show Installed
+Status is 0
+EXE execution sequence end at Mon Oct 16 10:26:37 2023
+Run-time in ms is 1.9351

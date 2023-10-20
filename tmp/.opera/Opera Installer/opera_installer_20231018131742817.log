@@ -1,0 +1,33 @@
+[1018/131742.820:INFO:installer_main.cc(470)] Opera installer starting - version 103.0.4928.34 Stable
+[1018/131742.820:INFO:installer_main.cc(473)] Command line: "C:\Users\mahi\AppData\Local\Programs\Opera\103.0.4928.34\installer.exe" --backend --initial-pid=27376 --install --import-browser-data=0 --enable-stats=1 --enable-installer-stats=1 --consent-given=0 --general-interests=0 --general-location=0 --personalized-content=0 --personalized-ads=0 --launchopera=0 --installfolder="C:\Users\mahi\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --pintotaskbar=0 --pintostartmenu=0 --run-at-startup=1 --server-tracking-data=server_tracking_data --show-intro-overlay --package-dir="C:\Users\mahi\AppData\Local\Temp\.opera\DFC5A3910DFF\CUsersmahiAppDataLocalProgramsOpera\installing" --inside-package --session-guid=4c44def0-dd1a-47d6-93ac-64b7b0807a09 --autoupdate --silent --install-subfolder=103.0.4928.34
+[1018/131742.821:INFO:installer_main.cc(492)] Install folder from command line: C:\Users\mahi\AppData\Local\Programs\Opera
+[1018/131742.821:INFO:installer_main.cc(495)] Uninstall:0
+[1018/131742.821:INFO:installer_main.cc(496)] Silent:1
+[1018/131742.821:INFO:installer_main.cc(497)] Run Immediately0
+[1018/131742.821:INFO:installer_main.cc(499)] Backend1
+[1018/131742.821:INFO:installer_main.cc(500)] Inside package1
+[1018/131742.821:INFO:installer_main.cc(501)] Autoupdate:1
+[1018/131742.821:INFO:resource_l10n_handler.cc(113)] Language not in the available languages list: 
+[1018/131742.821:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en-US
+[1018/131742.821:INFO:resource_l10n_handler.cc(162)] Retrying after adjustments: en-US
+[1018/131742.821:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en
+[1018/131742.945:INFO:settings_impl.cc(1323)] Install folder set: C:\Users\mahi\AppData\Local\Programs\Opera
+[1018/131742.945:INFO:settings_impl.cc(1378)] Operation: 2
+[1018/131742.945:INFO:installer.cc(194)] Beginning installation
+[1018/131742.945:INFO:permission_grantor_impl.cc(134)] Write privileges for install folder: 1
+[1018/131743.002:INFO:installation_package_impl.cc(172)] Package is ready
+[1018/131746.386:INFO:installer_steps.cc(462)] Removing installed files.
+[1018/131746.473:INFO:delete_file_step.cc(32)] Deleting file C:\Users\mahi\AppData\Local\Programs\Opera\103.0.4928.34\files_list
+[1018/131746.474:INFO:delete_file_step.cc(32)] Deleting file C:\Users\mahi\AppData\Local\Programs\Opera\103.0.4928.34\root_files_list
+[1018/131746.475:INFO:installer_steps.cc(549)] Removing old files from installation root
+[1018/131746.508:INFO:clean_registry_step.cc(47)] Cleaning up registry
+[1018/131746.521:INFO:installer_steps.cc(222)] Setting up the registry
+[1018/131746.533:INFO:update_shortcuts_step.cc(153)] Updating shortcuts
+[1018/131746.811:INFO:write_installer_prefs_step.cc(56)] Writing installer prefs to C:\Users\mahi\AppData\Local\Programs\Opera\installer_prefs.json
+[1018/131746.812:INFO:installer_steps.cc(664)] Preserving previous installer status.
+[1018/131746.813:INFO:install_extra_apps_step.cc(51)] Installing extra apps
+[1018/131746.815:INFO:protocol_handler_setup_impl.cc(103)] Setting up file handlers for the current user.
+[1018/131746.822:INFO:installer_steps.cc(363)] Creating scheduled task
+[1018/131746.875:INFO:installer.cc(617)] Finalizing successful installation
+[1018/131746.876:INFO:installer.cc(847)] Installation succeeded
+[1018/131746.876:INFO:backend_process_installer_runner_impl.cc(187)] Installer backend exiting
